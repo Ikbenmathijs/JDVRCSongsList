@@ -26,6 +26,19 @@
         "sinceVersion": 11
     },
     {
+        "name": "34+35",
+        "artist": "Ariana Grande",
+        "duration": "2:50",
+        "url": "https://youtu.be/5nM4Kqu5I3k",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "34+35",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "365",
         "artist": "Zedd & Katy Perry",
         "duration": "2:50",
@@ -37,6 +50,19 @@
         "amountOfDancers": 1,
         "difficulty": 1,
         "sinceVersion": 9
+    },
+    {
+        "name": "4x4",
+        "artist": "Miley Cyrus",
+        "duration": "2:45",
+        "url": "https://youtu.be/LTT783X0ql0",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "4x4",
+        "game": "2015",
+        "amountOfDancers": 4,
+        "difficulty": 2,
+        "sinceVersion": 12
     },
     {
         "name": "7 Rings",
@@ -130,6 +156,19 @@
         "sinceVersion": 12
     },
     {
+        "name": "Adeyyo",
+        "artist": "Ece Seçkin",
+        "duration": "3:46",
+        "url": "https://youtu.be/5D16PZYSUqg",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "adeyyo",
+        "game": "2019",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 12
+    },
+    {
         "name": "Adore You",
         "artist": "Harry Styles",
         "duration": "3:28",
@@ -140,6 +179,32 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 1,
+        "sinceVersion": 12
+    },
+    {
+        "name": "Aerodynamic",
+        "artist": "Daft Punk",
+        "duration": "4:10",
+        "url": "https://youtu.be/OgdPpZNzk-Q",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "aerodynamic",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
+        "name": "After Party",
+        "artist": "Banx & Ranx ft. Zach Zoya",
+        "duration": "3:28",
+        "url": "https://youtu.be/3UWB3jm1Rc8",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "after_party",
+        "game": "2024",
+        "amountOfDancers": 1,
+        "difficulty": 2,
         "sinceVersion": 12
     },
     {
@@ -455,6 +520,19 @@
         "sinceVersion": 11
     },
     {
+        "name": "Baby Got Back",
+        "artist": "Sir Mix-A-lot Mack Daddy ",
+        "duration": "2:38",
+        "url": "https://youtu.be/QyNMaO97o0Y",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "baby_got_back",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
+    },
+    {
         "name": "Baby One More Time",
         "artist": "Britney Spears",
         "duration": "3:18",
@@ -611,6 +689,19 @@
         "sinceVersion": 0
     },
     {
+        "name": "Barbara Streisand",
+        "artist": "Duck Sauce",
+        "duration": "2:45",
+        "url": "https://youtu.be/6eN-RoMsgAw",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "barbara_streisand",
+        "game": "sendhelp",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 12
+    },
+    {
         "name": "Barbie Girl",
         "artist": "Aqua",
         "duration": "3:06",
@@ -741,6 +832,19 @@
         "sinceVersion": 12
     },
     {
+        "name": "Billie",
+        "artist": "Michael Jackson",
+        "duration": "5:31",
+        "url": "https://youtu.be/VB3u7SGy1p4",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "billie",
+        "game": "mje",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Birthday",
         "artist": "Katy Perry",
         "duration": "3:36",
@@ -765,6 +869,19 @@
         "amountOfDancers": 1,
         "difficulty": "2",
         "sinceVersion": 11
+    },
+    {
+        "name": "Black Or White ",
+        "artist": "Michael Jackson",
+        "duration": "3:18",
+        "url": "https://youtu.be/RcS4QTREDbc",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "black_or_white",
+        "game": "mje",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
     },
     {
         "name": "Black Widow",
@@ -910,6 +1027,19 @@
         "sinceVersion": 0
     },
     {
+        "name": "Bonbon",
+        "artist": "Era Istrefi",
+        "duration": "2:48",
+        "url": "https://youtu.be/yVNaarxJH1w",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "bonbon",
+        "game": "2017",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
+    },
+    {
         "name": "Boogie Wonderland",
         "artist": "Groove Century",
         "duration": "3:23",
@@ -1038,6 +1168,19 @@
         "amountOfDancers": 1,
         "difficulty": "4",
         "sinceVersion": 10
+    },
+    {
+        "name": "Boy with luv",
+        "artist": "BTS",
+        "duration": "3:55",
+        "url": "https://youtu.be/jQfJGErNOAo",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "boy_with_luv",
+        "game": "2023",
+        "amountOfDancers": 3,
+        "difficulty": 3,
+        "sinceVersion": 12
     },
     {
         "name": "Boys",
@@ -1259,6 +1402,19 @@
         "amountOfDancers": 1,
         "difficulty": 1,
         "sinceVersion": 1
+    },
+    {
+        "name": "Calabria 2007",
+        "artist": "Enur ft. Natasja",
+        "duration": "3:59",
+        "url": "https://youtu.be/axEqltCJGYQ",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "calabria_2007",
+        "game": "other",
+        "amountOfDancers": 3,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "California Gurls",
@@ -1560,6 +1716,19 @@
         "sinceVersion": 10
     },
     {
+        "name": "Circus",
+        "artist": "Britney Spears",
+        "duration": "3:35",
+        "url": "https://youtu.be/ulO-URh5FZU",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "circus",
+        "game": "2016",
+        "amountOfDancers": 4,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Circus (Extreme)",
         "artist": "Britney Spears",
         "duration": "3:10",
@@ -1586,6 +1755,19 @@
         "sinceVersion": 12
     },
     {
+        "name": "Con Altura",
+        "artist": "Rosalia & J Balvin",
+        "duration": "2:42",
+        "url": "https://youtu.be/Xs6P2Q3Ofe0",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "con_altura",
+        "game": "2020",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Con Calma",
         "artist": "Daddy Yankee ft. Snow",
         "duration": "3:15",
@@ -1597,6 +1779,19 @@
         "amountOfDancers": 2,
         "difficulty": 2,
         "sinceVersion": 10
+    },
+    {
+        "name": "Cool for the Summer",
+        "artist": "Demi Lovato",
+        "duration": "3:34",
+        "url": "https://youtu.be/RanKjEpEhsQ",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "cool_for_the_summer",
+        "game": "2016",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "Cosmic Girl",
@@ -1625,6 +1820,19 @@
         "sinceVersion": 12
     },
     {
+        "name": "Counting Stars",
+        "artist": "OneRepublic",
+        "duration": "3:30",
+        "url": "https://youtu.be/9iUioO3tM6I",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "counting_stars",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 4,
+        "sinceVersion": 12
+    },
+    {
         "name": "Cradles",
         "artist": "Suburban",
         "duration": "3:30",
@@ -1635,6 +1843,19 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 3,
+        "sinceVersion": 12
+    },
+    {
+        "name": "Crayon",
+        "artist": "G-Dragon",
+        "duration": "3:17",
+        "url": "https://youtu.be/rtDrhtRBo5U",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "crayon",
+        "game": "2020",
+        "amountOfDancers": 1,
+        "difficulty": 2,
         "sinceVersion": 12
     },
     {
@@ -1740,6 +1961,19 @@
         "amountOfDancers": 2,
         "difficulty": "2",
         "sinceVersion": 11
+    },
+    {
+        "name": "DNA",
+        "artist": "BTS",
+        "duration": "3:45",
+        "url": "https://youtu.be/zxu_d0CbWEE",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "dna",
+        "game": "fanmade",
+        "amountOfDancers": 4,
+        "difficulty": 4,
+        "sinceVersion": 12
     },
     {
         "name": "Daddy",
@@ -1924,6 +2158,19 @@
         "sinceVersion": 11
     },
     {
+        "name": "Danger! High Voltage (8-bit)",
+        "artist": "Electric Six",
+        "duration": "3:36",
+        "url": "https://youtu.be/tEIvsbkr-J8",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "danger_high_voltage_alt",
+        "game": "2023",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Dançando",
         "artist": "Ivete Sangalo",
         "duration": "3:23",
@@ -1974,6 +2221,19 @@
         "amountOfDancers": 4,
         "difficulty": "3",
         "sinceVersion": 10
+    },
+    {
+        "name": "Despacito",
+        "artist": "Luis Fonsi",
+        "duration": "3:49",
+        "url": "https://youtu.be/VMkTzeC0LzY",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "despacito",
+        "game": "2018",
+        "amountOfDancers": 1,
+        "difficulty": 4,
+        "sinceVersion": 12
     },
     {
         "name": "Diamonds",
@@ -2103,6 +2363,19 @@
         "game": "2024",
         "amountOfDancers": 3,
         "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
+        "name": "Don't Cha (Extreme)",
+        "artist": "The Pussycat Dolls",
+        "duration": "4:44",
+        "url": "https://youtu.be/J3nl-dp2UtM",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "dont_cha_extreme",
+        "game": "2024",
+        "amountOfDancers": 1,
+        "difficulty": 4,
         "sinceVersion": 12
     },
     {
@@ -2444,6 +2717,19 @@
         "sinceVersion": 12
     },
     {
+        "name": "Fancy Footwork",
+        "artist": "Chromeo",
+        "duration": "3:18",
+        "url": "https://youtu.be/vmfzs6K6yBg",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "fancy_footwork",
+        "game": "2020",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
+    },
+    {
         "name": "Fantastic Baby",
         "artist": "Big Bang",
         "duration": "3:52",
@@ -2481,6 +2767,32 @@
         "amountOfDancers": 1,
         "difficulty": "2",
         "sinceVersion": 11
+    },
+    {
+        "name": "Feel So Right",
+        "artist": "Imposs ft. Konshens",
+        "duration": "3:00",
+        "url": "https://youtu.be/1s5bfGKr0QI",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "feel_so_right",
+        "game": "2014",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
+        "name": "Feel Special",
+        "artist": "Twice",
+        "duration": "3:34",
+        "url": "https://youtu.be/oocoSIsnsNY",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "feel_special",
+        "game": "2021",
+        "amountOfDancers": 3,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "Feel Special (Extreme)",
@@ -2795,6 +3107,19 @@
         "sinceVersion": 11
     },
     {
+        "name": "Get Busy",
+        "artist": "KOYOTIE",
+        "duration": "3:04",
+        "url": "https://youtu.be/JysNuJNuIJ0",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "get_busy",
+        "game": "2020",
+        "amountOfDancers": 2,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Get Get Down",
         "artist": "Paul Johnson",
         "duration": "3:02",
@@ -2884,6 +3209,19 @@
         "amountOfDancers": 3,
         "difficulty": 2,
         "sinceVersion": 11
+    },
+    {
+        "name": "Gibberish",
+        "artist": "Max",
+        "duration": "3:02",
+        "url": "https://youtu.be/6I-t46DqgdA",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "gibberish",
+        "game": "2016",
+        "amountOfDancers": 2,
+        "difficulty": 3,
+        "sinceVersion": 12
     },
     {
         "name": "Gimme More",
@@ -3029,6 +3367,19 @@
         "sinceVersion": 12
     },
     {
+        "name": "Gokuraku Joudo",
+        "artist": "GARNiDELiA",
+        "duration": "3:34",
+        "url": "https://youtu.be/aqHjN5YPLho",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "gokuraku_joudo",
+        "game": "china_or_something_idk",
+        "amountOfDancers": 3,
+        "difficulty": 4,
+        "sinceVersion": 12
+    },
+    {
         "name": "Gold Dust",
         "artist": "DJ Fresh",
         "duration": "2:56",
@@ -3092,6 +3443,19 @@
         "amountOfDancers": 1,
         "difficulty": 4,
         "sinceVersion": 0
+    },
+    {
+        "name": "Good Time",
+        "artist": "Owl City ft. Carly Rae Jepson",
+        "duration": "3:25",
+        "url": "https://youtu.be/fTXjpBTYHso",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "good_time",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
     },
     {
         "name": "Good ones",
@@ -3172,6 +3536,19 @@
         "sinceVersion": 10
     },
     {
+        "name": "Happier",
+        "artist": "Marshmello ft. Bastille",
+        "duration": "3:31",
+        "url": "https://youtu.be/xrNsqxFPEKs",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "happier",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Happier Than Ever",
         "artist": "Billie Eilish",
         "duration": "3:38",
@@ -3196,6 +3573,19 @@
         "amountOfDancers": 1,
         "difficulty": 1,
         "sinceVersion": 7
+    },
+    {
+        "name": "Happy Birthday To You",
+        "artist": "\r\nPatty Hill and Mildred J. Hill",
+        "duration": "2:10",
+        "url": "https://youtu.be/rJvPnkakszU",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "happy_birthday_to_you",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "Harajuku Iyahoi",
@@ -3248,6 +3638,19 @@
         "amountOfDancers": 2,
         "difficulty": 3,
         "sinceVersion": 11
+    },
+    {
+        "name": "Head & Heart",
+        "artist": "Joel Corry Ft. Minek",
+        "duration": "3:18",
+        "url": "https://youtu.be/xBWyIDJEYeo",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "head_&_heart",
+        "game": "2021",
+        "amountOfDancers": 2,
+        "difficulty": 2,
+        "sinceVersion": 12
     },
     {
         "name": "Heartbeat Song",
@@ -3388,6 +3791,19 @@
         "original_url": null,
         "image": "hollaback_girl",
         "game": "2024",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
+        "name": "Hot For Me",
+        "artist": "A.K.A",
+        "duration": "3:21",
+        "url": "https://youtu.be/mfUAH9sXAEk",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "hot_for_me",
+        "game": "4",
         "amountOfDancers": 1,
         "difficulty": 2,
         "sinceVersion": 12
@@ -3601,6 +4017,19 @@
         "sinceVersion": 9
     },
     {
+        "name": "I like it",
+        "artist": "Cardi B, Bad Bunny & J Balvin",
+        "duration": "4:11",
+        "url": "https://youtu.be/9K3lghAL9qU",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "i_like_it",
+        "game": "2020",
+        "amountOfDancers": 3,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "I love it",
         "artist": "Icona Pop feat. Charli XCX",
         "duration": "2:35",
@@ -3625,6 +4054,19 @@
         "amountOfDancers": 1,
         "difficulty": "2",
         "sinceVersion": 10
+    },
+    {
+        "name": "I wanna dance with somebody",
+        "artist": "Whitney Houston",
+        "duration": "5:06",
+        "url": "https://youtu.be/OVZcxQjXwGk",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "i_wanna_dance_with_somebody",
+        "game": "2024",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
     },
     {
         "name": "I'm Good (Blue)",
@@ -3679,6 +4121,19 @@
         "sinceVersion": 0
     },
     {
+        "name": "I'm a Marionette",
+        "artist": "ABBA",
+        "duration": "4:06",
+        "url": "https://youtu.be/A1pINeINab0",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "im_a_marionette",
+        "game": "other",
+        "amountOfDancers": 2,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "I'm an Albatroaz",
         "artist": "AronChupa",
         "duration": "2:36",
@@ -3692,6 +4147,19 @@
         "sinceVersion": 0
     },
     {
+        "name": "Ice Cream",
+        "artist": "BLACKPINK, Selena Gomez",
+        "duration": "2:56",
+        "url": "https://youtu.be/rd4NvcHWWso",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "ice_cream",
+        "game": "2021",
+        "amountOfDancers": 4,
+        "difficulty": 3,
+        "sinceVersion": 12
+    },
+    {
         "name": "Idol Wa Ooh-Nya-Nya No Ken",
         "artist": "NyaKB with Tsuchinoko Panda",
         "duration": "2:20",
@@ -3703,6 +4171,19 @@
         "amountOfDancers": 1,
         "difficulty": "2",
         "sinceVersion": 11
+    },
+    {
+        "name": "Ievan Polkka",
+        "artist": "Hatsune Miku",
+        "duration": "2:30",
+        "url": "https://youtu.be/rcw8D0iDB4A",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "ievan_polkka",
+        "game": "2016",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "If You Wanna Party",
@@ -3833,6 +4314,19 @@
         "amountOfDancers": 1,
         "difficulty": 2,
         "sinceVersion": 0
+    },
+    {
+        "name": "It's the Most Wonderful Time of the Year",
+        "artist": "Andy Williams",
+        "duration": "2:38",
+        "url": "https://youtu.be/Ad535niXs84",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "its_the_most_wonderful_time_of_the_year",
+        "game": "2024",
+        "amountOfDancers": 3,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "It’s Raining Men",
@@ -3978,6 +4472,19 @@
         "sinceVersion": 9
     },
     {
+        "name": "Juice (Yummy Version)",
+        "artist": "Lizzo",
+        "duration": "3:25",
+        "url": "https://youtu.be/Cs6Yum1c1Pg",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "juice_yummy_version",
+        "game": "2021",
+        "amountOfDancers": 3,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Jump",
         "artist": "Kriss Kross",
         "duration": "3:00",
@@ -4043,6 +4550,19 @@
         "sinceVersion": 11
     },
     {
+        "name": "Just an Illusion",
+        "artist": "Equinox Stars",
+        "duration": "3:28",
+        "url": "https://youtu.be/I_aEz6Om4bI",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "just_an_illusion",
+        "game": "2020",
+        "amountOfDancers": 2,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Just the way you are",
         "artist": "BRUNO MARS",
         "duration": "3:30",
@@ -4054,6 +4574,19 @@
         "amountOfDancers": 1,
         "difficulty": "2",
         "sinceVersion": 11
+    },
+    {
+        "name": "Kashyyyk",
+        "artist": "Kinect Star Wars",
+        "duration": "4:40",
+        "url": "https://youtu.be/WYBDQ-yYStU",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "kashyyyk",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
     },
     {
         "name": "Keep In Touch",
@@ -4249,6 +4782,19 @@
         "amountOfDancers": 1,
         "difficulty": 1,
         "sinceVersion": 7
+    },
+    {
+        "name": "Last Night",
+        "artist": "Diddy feat. Keyshia Cole ",
+        "duration": "2:25",
+        "url": "https://youtu.be/lzN1uUIx-xw",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "last_night",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "Le Freak ",
@@ -4459,6 +5005,19 @@
         "sinceVersion": 12
     },
     {
+        "name": "Lollipop",
+        "artist": "Lil Wayne ft. Static Major",
+        "duration": "4:59",
+        "url": "https://youtu.be/LVLk3xG8wkU",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "lollipop_dc",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Love Boat",
         "artist": "Jack Jones",
         "duration": "2:47",
@@ -4509,6 +5068,19 @@
         "amountOfDancers": 2,
         "difficulty": 1,
         "sinceVersion": 9
+    },
+    {
+        "name": "Love Ward",
+        "artist": "Hatsune Miku",
+        "duration": "3:28",
+        "url": "https://youtu.be/jq2J2pzcaL0",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "love_ward",
+        "game": "2018",
+        "amountOfDancers": 3,
+        "difficulty": 3,
+        "sinceVersion": 12
     },
     {
         "name": "Love You Like A Love Song",
@@ -4587,6 +5159,19 @@
         "amountOfDancers": 1,
         "difficulty": "1",
         "sinceVersion": 11
+    },
+    {
+        "name": "MA ITŪ",
+        "artist": "Stella Mwangi",
+        "duration": "3:00",
+        "url": "https://youtu.be/rOdWXQZBFsY",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "ma_itu",
+        "game": "2020",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
     },
     {
         "name": "MI MI MI",
@@ -4693,6 +5278,19 @@
         "sinceVersion": 11
     },
     {
+        "name": "Makeba",
+        "artist": "Jain",
+        "duration": "3:46",
+        "url": "https://youtu.be/qnT9aRizUn4",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "makeba",
+        "game": "2024",
+        "amountOfDancers": 3,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Mambo No. 5",
         "artist": "Lou Bega",
         "duration": "3:18",
@@ -4758,6 +5356,19 @@
         "sinceVersion": 12
     },
     {
+        "name": "Mas Que Nada ",
+        "artist": "Sergio Mendes ft. The Black Eyed Peas",
+        "duration": "3:39",
+        "url": "https://youtu.be/fwE9zLoqqfg",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "mas_que_nada",
+        "game": "4",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Matsuribayashi de Geragerapō",
         "artist": "King Cream Soda",
         "duration": "2:25",
@@ -4795,6 +5406,19 @@
         "amountOfDancers": 2,
         "difficulty": 2,
         "sinceVersion": 10
+    },
+    {
+        "name": "Mi Gente",
+        "artist": "J. Balvin, Willy William",
+        "duration": "3:09",
+        "url": "https://youtu.be/dM5AqfTL6ys",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "mi_gente",
+        "game": "2017",
+        "amountOfDancers": 3,
+        "difficulty": 2,
+        "sinceVersion": 12
     },
     {
         "name": "Million Dollar Baby",
@@ -4873,6 +5497,19 @@
         "amountOfDancers": 1,
         "difficulty": "2",
         "sinceVersion": 10
+    },
+    {
+        "name": "Money",
+        "artist": "LISA",
+        "duration": "2:50",
+        "url": "https://youtu.be/mTQ8yteXG_Q",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "money_alt",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
     },
     {
         "name": "Monster",
@@ -5005,6 +5642,19 @@
         "sinceVersion": 0
     },
     {
+        "name": "Murder on the Dancefloor",
+        "artist": "Sophie Ellis-Bextor ",
+        "duration": "4:43",
+        "url": "https://youtu.be/fLDEKpgc08Q",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "murder_on_the_dancefloor",
+        "game": "2024",
+        "amountOfDancers": 2,
+        "difficulty": 3,
+        "sinceVersion": 12
+    },
+    {
         "name": "My New Swag",
         "artist": "VAVA ft. Ty & Nina Wang",
         "duration": "3:17",
@@ -5120,6 +5770,19 @@
         "amountOfDancers": 1,
         "difficulty": "3",
         "sinceVersion": 10
+    },
+    {
+        "name": "New World(Extreme)",
+        "artist": "Vava,Krewella,Yellow Claw",
+        "duration": "2:51",
+        "url": "https://youtu.be/z-_y8yFHvOc",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "new_worldextreme",
+        "game": "2020",
+        "amountOfDancers": 1,
+        "difficulty": 4,
+        "sinceVersion": 12
     },
     {
         "name": "Ninja Re Bang Bang",
@@ -5239,6 +5902,32 @@
         "sinceVersion": 0
     },
     {
+        "name": "Ohla A Explosao",
+        "artist": "Mc Kevinho",
+        "duration": "3:13",
+        "url": "https://youtu.be/idYykdPCxqQ",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "ohla_a_explosao",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
+    },
+    {
+        "name": "Oishii Oishii",
+        "artist": "Wanko Ni Mero Mero",
+        "duration": "3:14",
+        "url": "https://youtu.be/eTLG3r6RZmk",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "oishii_oishii",
+        "game": "2017",
+        "amountOfDancers": 2,
+        "difficulty": 1,
+        "sinceVersion": 12
+    },
+    {
         "name": "Old Town Road",
         "artist": "Lil Nas X ft. Billy Ray Cyrus",
         "duration": "2:35",
@@ -5276,6 +5965,19 @@
         "amountOfDancers": 1,
         "difficulty": 2,
         "sinceVersion": 7
+    },
+    {
+        "name": "One Thing",
+        "artist": "One Direction",
+        "duration": "3:17",
+        "url": "https://youtu.be/lb-gKHS8o1g",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "one_thing",
+        "game": "4",
+        "amountOfDancers": 2,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "Only Girl (In The World)",
@@ -5393,6 +6095,19 @@
         "amountOfDancers": 1,
         "difficulty": "3",
         "sinceVersion": 11
+    },
+    {
+        "name": "Paparazzi",
+        "artist": "Lady Gaga",
+        "duration": "4:16",
+        "url": "https://youtu.be/_pR8byDl2Rg",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "paparazzi",
+        "game": "2024",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
     },
     {
         "name": "Part of Me",
@@ -5681,6 +6396,19 @@
         "sinceVersion": 0
     },
     {
+        "name": "Pump Up The Volume",
+        "artist": "M|A|R|R|S",
+        "duration": "3:56",
+        "url": "https://youtu.be/Bp6ptMKDds4",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "pump_up_the_volume",
+        "game": "2",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 12
+    },
+    {
         "name": "Pump Up the Jam",
         "artist": "Technotronic",
         "duration": "3:41",
@@ -5731,6 +6459,19 @@
         "amountOfDancers": 2,
         "difficulty": "3",
         "sinceVersion": 10
+    },
+    {
+        "name": "Rapper's Delight",
+        "artist": "\rThe Sugarhill Gang",
+        "duration": "3:01",
+        "url": "https://youtu.be/evjRhXcRp8Y",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "rappers_delight",
+        "game": "2024",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
     },
     {
         "name": "Rare (Fairy Version)",
@@ -6110,6 +6851,19 @@
         "sinceVersion": 0
     },
     {
+        "name": "Sayonara",
+        "artist": "Wanko Ni Mero Mero",
+        "duration": "2:46",
+        "url": "https://youtu.be/PdmDkOUj4nw",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "sayonara",
+        "game": "2018",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
+    },
+    {
         "name": "Scream & Shout (extrreme version)",
         "artist": "will.i.am ft. Britney Spears",
         "duration": "4:10",
@@ -6188,6 +6942,19 @@
         "sinceVersion": 11
     },
     {
+        "name": "She Looks So Perfect",
+        "artist": "5 Seconds of Summer",
+        "duration": "3:22",
+        "url": "https://youtu.be/v9CM6aYrfcQ",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "she_looks_so_perfect",
+        "game": "2015",
+        "amountOfDancers": 4,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "She Wolf (Falling to pieces)",
         "artist": "David Guetta Ft. Sia",
         "duration": "3:28",
@@ -6253,6 +7020,19 @@
         "sinceVersion": 11
     },
     {
+        "name": "Side to Side",
+        "artist": "Ariana Grande ft. Nicki Minaj",
+        "duration": "3:46",
+        "url": "https://youtu.be/VPKVvafJcO0",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "side_to_side",
+        "game": "2018",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 12
+    },
+    {
         "name": "Single Ladies (Put a Ring on It)",
         "artist": "Beyoncé",
         "duration": "3:08",
@@ -6277,6 +7057,19 @@
         "amountOfDancers": 1,
         "difficulty": "1",
         "sinceVersion": 11
+    },
+    {
+        "name": "Sk8er Boi",
+        "artist": "Avril Lavigne",
+        "duration": "3:24",
+        "url": "https://youtu.be/1lC9kuw1mGo",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "sk8er_boi",
+        "game": "2024",
+        "amountOfDancers": 2,
+        "difficulty": 2,
+        "sinceVersion": 12
     },
     {
         "name": "Skibidi",
@@ -6461,6 +7254,45 @@
         "sinceVersion": 11
     },
     {
+        "name": "Stay (VIP version)",
+        "artist": "The Kid Laroi & Justin Bieber",
+        "duration": "2:24",
+        "url": "https://youtu.be/v-MowNpU4UI",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "stay_vip",
+        "game": "2023",
+        "amountOfDancers": 3,
+        "difficulty": 4,
+        "sinceVersion": 12
+    },
+    {
+        "name": "Sticky (fan made by Yeggiz)",
+        "artist": "Kiss Of Life",
+        "duration": "2:37",
+        "url": "https://youtu.be/WYBLIumncLQ",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "sticky_fan_made_by_yeggiz",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 4,
+        "sinceVersion": 12
+    },
+    {
+        "name": "Stop Movin’",
+        "artist": "Royal Republic",
+        "duration": "2:58",
+        "url": "https://youtu.be/C7xSufCaemg",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "stop_movin",
+        "game": "2020",
+        "amountOfDancers": 3,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Streetwalker",
         "artist": "Michael Jackson",
         "duration": "4:35",
@@ -6485,6 +7317,19 @@
         "amountOfDancers": 1,
         "difficulty": 1,
         "sinceVersion": 11
+    },
+    {
+        "name": "Stuck on a Feeling",
+        "artist": "Prince Royce",
+        "duration": "3:28",
+        "url": "https://youtu.be/oIE9dHDx1Wo",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "stuck_on_a_feeling",
+        "game": "2016",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
     },
     {
         "name": "Stupid Love",
@@ -6524,6 +7369,19 @@
         "amountOfDancers": 1,
         "difficulty": 1,
         "sinceVersion": 6
+    },
+    {
+        "name": "Sugar",
+        "artist": "Maroon 5",
+        "duration": "3:59",
+        "url": "https://youtu.be/5hCW_tV8VZU",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "sugar",
+        "game": "2019",
+        "amountOfDancers": 2,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "Summer",
@@ -6589,6 +7447,19 @@
         "amountOfDancers": 1,
         "difficulty": "2",
         "sinceVersion": 10
+    },
+    {
+        "name": "Superhero",
+        "artist": "Just Dance Machine",
+        "duration": "0:28",
+        "url": "https://youtu.be/F4S2Uues_H0",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "superhero",
+        "game": "2017",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "Surfin’ Bird",
@@ -6693,6 +7564,19 @@
         "amountOfDancers": 4,
         "difficulty": 2,
         "sinceVersion": 9
+    },
+    {
+        "name": "Swish Swish (World cup vers. Extreme)",
+        "artist": "Katy Perry Ft. Nicki Minaj ",
+        "duration": "3:53",
+        "url": "https://youtu.be/hyjzUIdKt9g",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "swish_swish_world_cup_vers_extreme",
+        "game": "2018",
+        "amountOfDancers": 2,
+        "difficulty": 4,
+        "sinceVersion": 12
     },
     {
         "name": "Take On Me",
@@ -6903,6 +7787,19 @@
         "sinceVersion": 10
     },
     {
+        "name": "The Way",
+        "artist": "Ariana Grande Ft. Mac Miller",
+        "duration": "3:49",
+        "url": "https://youtu.be/0B2i3aIetJI",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "the_way",
+        "game": "2014",
+        "amountOfDancers": 2,
+        "difficulty": 1,
+        "sinceVersion": 12
+    },
+    {
         "name": "The Way I Are",
         "artist": "Timbaland ft. Keri Hilson, D.O.E. and Sebastian",
         "duration": "2:51",
@@ -6914,6 +7811,19 @@
         "amountOfDancers": 2,
         "difficulty": 2,
         "sinceVersion": 9
+    },
+    {
+        "name": "The Way I Are",
+        "artist": "Bebe Rexha & Lil Wayne ",
+        "duration": "3:12",
+        "url": "https://youtu.be/KKa0njB4aRk",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "the_way_i_are_bebe",
+        "game": "2018",
+        "amountOfDancers": 2,
+        "difficulty": 2,
+        "sinceVersion": 12
     },
     {
         "name": "The Weekend",
@@ -7267,6 +8177,19 @@
         "sinceVersion": 11
     },
     {
+        "name": "U.S.A.",
+        "artist": "DA PUMP",
+        "duration": "3:58",
+        "url": "https://youtu.be/WuL6W5N5pE4",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "usa",
+        "game": "2021",
+        "amountOfDancers": 4,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Ubu Love",
         "artist": "Naniwa Danshi",
         "duration": "3:44",
@@ -7395,6 +8318,19 @@
         "amountOfDancers": 1,
         "difficulty": 2,
         "sinceVersion": 11
+    },
+    {
+        "name": "WILLOW",
+        "artist": "Whip My Hair",
+        "duration": "2:36",
+        "url": "https://youtu.be/ZPgCbe_chcg",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "willow",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
     },
     {
         "name": "Waka Waka (This Time for Africa) (Football Version) ",
@@ -7551,6 +8487,19 @@
         "amountOfDancers": 1,
         "difficulty": 2,
         "sinceVersion": 9
+    },
+    {
+        "name": "We No Speak Americano (Extreme Version)",
+        "artist": "Yolanda Be Cool ft. DCUP\r\n(Hit The Electro Beat)",
+        "duration": "3:04",
+        "url": "https://youtu.be/uWeHu-sdu1M",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "we_no_speak_americano_extreme_version",
+        "game": "fanmade",
+        "amountOfDancers": 2,
+        "difficulty": 4,
+        "sinceVersion": 12
     },
     {
         "name": "We R Who We R",
@@ -7878,6 +8827,19 @@
         "sinceVersion": 11
     },
     {
+        "name": "Woman (VIP VERSION)",
+        "artist": "Doja Cat",
+        "duration": "2:56",
+        "url": "https://youtu.be/oLKSvpI8oTM",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "woman_vip_version",
+        "game": "2023",
+        "amountOfDancers": 1,
+        "difficulty": 4,
+        "sinceVersion": 12
+    },
+    {
         "name": "Womanizer",
         "artist": "Britney Spears",
         "duration": "3:25",
@@ -7954,6 +8916,32 @@
         "amountOfDancers": 4,
         "difficulty": 1,
         "sinceVersion": 0
+    },
+    {
+        "name": "Yameen Yasar",
+        "artist": "DJ Absi",
+        "duration": "3:24",
+        "url": "https://youtu.be/wtTJKJHXyIs",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "yameen_yasar",
+        "game": "2021",
+        "amountOfDancers": 3,
+        "difficulty": 3,
+        "sinceVersion": 12
+    },
+    {
+        "name": "Yo-kai Taiso Dai-Ichi",
+        "artist": "Dream5",
+        "duration": "2:19",
+        "url": "https://youtu.be/ip9MmL13sHA",
+        "altUrl": "not available",
+        "original_url": null,
+        "image": "yo-kai_taiso_dai-ichi",
+        "game": "ykwd",
+        "amountOfDancers": 2,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "You Can Dance",
