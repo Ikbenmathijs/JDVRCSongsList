@@ -5079,7 +5079,7 @@
         "name": "Money",
         "artist": "LISA",
         "duration": "2:50",
-        "url": "https://youtu.be/mTQ8yteXG_Q",
+        "url": "https://youtu.be/KpRnvGeSTe0",
         "original_url": null,
         "image": "money_alt",
         "game": "fanmade",
@@ -7680,18 +7680,6 @@
         "sinceVersion": 11
     },
     {
-        "name": "WILLOW",
-        "artist": "Whip My Hair",
-        "duration": "2:36",
-        "url": "https://youtu.be/ZPgCbe_chcg",
-        "original_url": null,
-        "image": "willow",
-        "game": "other",
-        "amountOfDancers": 1,
-        "difficulty": 3,
-        "sinceVersion": 12
-    },
-    {
         "name": "Waka Waka (This Time for Africa) (Football Version) ",
         "artist": "Shakira",
         "duration": "3:10",
@@ -7999,6 +7987,18 @@
         "original_url": null,
         "image": "whine_up",
         "game": "2024",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
+    },
+    {
+        "name": "Whip My Hair",
+        "artist": "WILLOW",
+        "duration": "2:36",
+        "url": "https://youtu.be/ZPgCbe_chcg",
+        "original_url": null,
+        "image": "willow",
+        "game": "other",
         "amountOfDancers": 1,
         "difficulty": 3,
         "sinceVersion": 12
