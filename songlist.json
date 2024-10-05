@@ -486,7 +486,7 @@
         "url": "https://youtu.be/QyNMaO97o0Y",
         "original_url": null,
         "image": "baby_got_back",
-        "game": "other",
+        "game": "dcs3",
         "amountOfDancers": 1,
         "difficulty": 3,
         "sinceVersion": 12
@@ -1302,7 +1302,7 @@
         "url": "https://youtu.be/axEqltCJGYQ",
         "original_url": null,
         "image": "calabria_2007",
-        "game": "other",
+        "game": "2025",
         "amountOfDancers": 3,
         "difficulty": 1,
         "sinceVersion": 12
@@ -1686,7 +1686,7 @@
         "url": "https://youtu.be/9iUioO3tM6I",
         "original_url": null,
         "image": "counting_stars",
-        "game": "other",
+        "game": "dcs",
         "amountOfDancers": 1,
         "difficulty": 4,
         "sinceVersion": 12
@@ -1770,7 +1770,7 @@
         "url": "https://youtu.be/28l7qdlndFQ",
         "original_url": null,
         "image": "cupid_shuffle",
-        "game": "other",
+        "game": "dc3",
         "amountOfDancers": 1,
         "difficulty": 2,
         "sinceVersion": 12
@@ -3301,7 +3301,7 @@
     },
     {
         "name": "Happy Birthday To You",
-        "artist": "\nPatty Hill and Mildred J. Hill",
+        "artist": "Patty Hill and Mildred J. Hill",
         "duration": "2:10",
         "url": "https://youtu.be/rJvPnkakszU",
         "original_url": null,
@@ -4422,7 +4422,7 @@
         "url": "https://youtu.be/lzN1uUIx-xw",
         "original_url": null,
         "image": "last_night",
-        "game": "other",
+        "game": "china_or_smth_idk",
         "amountOfDancers": 1,
         "difficulty": 1,
         "sinceVersion": 12
@@ -7506,7 +7506,7 @@
         "url": "https://youtu.be/W93eiVOf2mU",
         "original_url": null,
         "image": "turn_me_on",
-        "game": "other",
+        "game": "dc2",
         "amountOfDancers": 1,
         "difficulty": 3,
         "sinceVersion": 12
