@@ -72,6 +72,18 @@
         "sinceVersion": 12
     },
     {
+        "name": "7 Rings (Extreme Version)",
+        "artist": "Ariana Grande",
+        "duration": "2:58",
+        "url": "https://youtu.be/x9jYm4CEk2o",
+        "original_url": null,
+        "image": "7_rings_extreme_version",
+        "game": "2020",
+        "amountOfDancers": 1,
+        "difficulty": 4,
+        "sinceVersion": 12
+    },
+    {
         "name": "7th Element",
         "artist": "Vitas",
         "duration": "3:30",
@@ -262,6 +274,18 @@
         "amountOfDancers": 1,
         "difficulty": 1,
         "sinceVersion": 0
+    },
+    {
+        "name": "All The Stars",
+        "artist": "Kendrick Lamar Ft. SZA",
+        "duration": "3:58",
+        "url": "https://youtu.be/N1BAHHwaiHo",
+        "original_url": null,
+        "image": "all_the_stars",
+        "game": "2023",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
     },
     {
         "name": "All You Gotta Do (Is Just Dance)",
@@ -1344,6 +1368,18 @@
         "sinceVersion": 0
     },
     {
+        "name": "Calm Down",
+        "artist": "Rema",
+        "duration": "3:45",
+        "url": "https://youtu.be/RMdM04BO_yE",
+        "original_url": null,
+        "image": "calm_down",
+        "game": "2024",
+        "amountOfDancers": 2,
+        "difficulty": 1,
+        "sinceVersion": 12
+    },
+    {
         "name": "Calypso",
         "artist": "Luis Fonsi & Stefflon Don",
         "duration": "3:17",
@@ -1675,6 +1711,18 @@
         "original_url": null,
         "image": "cosmic_party",
         "game": "2019",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
+        "name": "Cotton Eye Joe",
+        "artist": "Rednex",
+        "duration": "3:16",
+        "url": "https://youtu.be/kVb9RHYFPGs",
+        "original_url": null,
+        "image": "cotton_eye_joe",
+        "game": "1",
         "amountOfDancers": 1,
         "difficulty": 2,
         "sinceVersion": 12
@@ -2830,6 +2878,18 @@
         "amountOfDancers": 1,
         "difficulty": "1",
         "sinceVersion": 11
+    },
+    {
+        "name": "Gee",
+        "artist": "Girls Generation",
+        "duration": "3:24",
+        "url": "https://youtu.be/THXPU1ALhW8",
+        "original_url": null,
+        "image": "gee",
+        "game": "china_or_something_idk",
+        "amountOfDancers": 3,
+        "difficulty": 2,
+        "sinceVersion": 12
     },
     {
         "name": "Gentleman",
@@ -5784,6 +5844,18 @@
         "sinceVersion": 12
     },
     {
+        "name": "Poster Girl",
+        "artist": "Zara Larsson",
+        "duration": "2:57",
+        "url": "https://youtu.be/l7T6NVp54Nw",
+        "original_url": null,
+        "image": "poster_girl",
+        "game": "2022",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "Pound the Alarm",
         "artist": "Nicky Minaj",
         "duration": "3:35",
@@ -6574,6 +6646,18 @@
         "amountOfDancers": 3,
         "difficulty": 1,
         "sinceVersion": 11
+    },
+    {
+        "name": "Snowman",
+        "artist": "Sia",
+        "duration": "2:30",
+        "url": "https://youtu.be/bOHakG3qd6Y",
+        "original_url": null,
+        "image": "snowman",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "So What",
@@ -7594,6 +7678,18 @@
         "amountOfDancers": 1,
         "difficulty": 2,
         "sinceVersion": 6
+    },
+    {
+        "name": "Un Poco Loco",
+        "artist": "Disney-Pixar’s Coco",
+        "duration": "1:58",
+        "url": "https://youtu.be/IaTXaEoOYKc",
+        "original_url": null,
+        "image": "un_poco_loco",
+        "game": "2019",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 12
     },
     {
         "name": "Uno",
