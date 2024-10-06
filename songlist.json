@@ -3720,6 +3720,18 @@
         "sinceVersion": 0
     },
     {
+        "name": "I Knew You Were Trouble",
+        "artist": "Taylor Swift",
+        "duration": "3:52",
+        "url": "https://youtu.be/JUoVYHH-xOI",
+        "original_url": null,
+        "image": "i_knew_you_were_trouble",
+        "game": "2023",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 12
+    },
+    {
         "name": "I Like to Move It",
         "artist": "Reel 2 Real",
         "duration": "3:52",
@@ -7008,6 +7020,18 @@
         "sinceVersion": 0
     },
     {
+        "name": "Swalla",
+        "artist": "Swalla By Jason Derulo, Nicki Minaj & Ty Dolla $ign (Fanmade)",
+        "duration": "2:40",
+        "url": "https://youtu.be/jtavZCAlKZE",
+        "original_url": null,
+        "image": "swalla",
+        "game": "fanmade",
+        "amountOfDancers": 3,
+        "difficulty": 3,
+        "sinceVersion": 12
+    },
+    {
         "name": "Swalla (Fanmade)",
         "artist": "Jason Derulo",
         "duration": "3:24",
@@ -8290,6 +8314,18 @@
         "amountOfDancers": 1,
         "difficulty": 4,
         "sinceVersion": 11
+    },
+    {
+        "name": "Worth It",
+        "artist": "Fifth Harmony Ft. Kid Ink",
+        "duration": "3:46",
+        "url": "https://youtu.be/EVDXVZ5_dEU",
+        "original_url": null,
+        "image": "worth_it",
+        "game": "2017",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 12
     },
     {
         "name": "Worth It (Fanmade)",
