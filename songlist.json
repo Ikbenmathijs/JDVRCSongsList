@@ -7008,12 +7008,12 @@
         "sinceVersion": 0
     },
     {
-        "name": "Swalla",
+        "name": "Swalla (Fanmade)",
         "artist": "Jason Derulo",
         "duration": "3:24",
         "url": "https://youtu.be/Ik6bxqX8KZI?t=5",
         "original_url": "https://youtu.be/H7e0zrRfBYo?t=5",
-        "image": "swalla",
+        "image": "swalla_fanmade",
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "2",
@@ -8292,7 +8292,7 @@
         "sinceVersion": 11
     },
     {
-        "name": "Worth It",
+        "name": "Worth It (Fanmade)",
         "artist": "Fifth Harmony ft. Kid Ink",
         "duration": "3:32",
         "url": "https://youtu.be/U6Yw3bUK3qc?t=5",
