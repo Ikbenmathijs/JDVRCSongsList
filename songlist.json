@@ -1755,7 +1755,7 @@
         "name": "Crayon",
         "artist": "G-Dragon",
         "duration": "3:17",
-        "url": "https://youtu.be/rtDrhtRBo5U",
+        "url": "https://youtu.be/oveo5kiRZ9I",
         "original_url": null,
         "image": "crayon",
         "game": "2020",
@@ -7020,18 +7020,6 @@
         "sinceVersion": 0
     },
     {
-        "name": "Swalla",
-        "artist": "Swalla By Jason Derulo, Nicki Minaj & Ty Dolla $ign (Fanmade)",
-        "duration": "2:40",
-        "url": "https://youtu.be/jtavZCAlKZE",
-        "original_url": null,
-        "image": "swalla",
-        "game": "fanmade",
-        "amountOfDancers": 3,
-        "difficulty": 3,
-        "sinceVersion": 12
-    },
-    {
         "name": "Swalla (Fanmade)",
         "artist": "Jason Derulo",
         "duration": "3:24",
@@ -7042,6 +7030,18 @@
         "amountOfDancers": 1,
         "difficulty": "2",
         "sinceVersion": 10
+    },
+    {
+        "name": "Swalla (fanmade)",
+        "artist": "Swalla By Jason Derulo, Nicki Minaj & Ty Dolla $ign (Fanmade)",
+        "duration": "2:40",
+        "url": "https://youtu.be/jtavZCAlKZE",
+        "original_url": null,
+        "image": "swalla2",
+        "game": "fanmade",
+        "amountOfDancers": 3,
+        "difficulty": 3,
+        "sinceVersion": 12
     },
     {
         "name": "Sweet But Psycho",
@@ -7659,7 +7659,7 @@
         "name": "U.S.A.",
         "artist": "DA PUMP",
         "duration": "3:58",
-        "url": "https://youtu.be/WuL6W5N5pE4",
+        "url": "https://youtu.be/X9UeTs9qroM",
         "original_url": null,
         "image": "usa",
         "game": "2021",
