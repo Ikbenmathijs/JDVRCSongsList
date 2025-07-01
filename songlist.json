@@ -9,7 +9,8 @@
         "game": "2018",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"24kmagic\""
     },
     {
         "name": "24K Magic (Extreme)",
@@ -21,7 +22,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"24kmagicextreme\""
     },
     {
         "name": "34+35",
@@ -33,7 +35,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"34+35\""
     },
     {
         "name": "365",
@@ -45,7 +48,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"365\""
     },
     {
         "name": "4x4",
@@ -57,7 +61,8 @@
         "game": "2015",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"4x4\""
     },
     {
         "name": "7 Rings",
@@ -69,7 +74,8 @@
         "game": "2020",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"7rings\""
     },
     {
         "name": "7 Rings (Extreme Version)",
@@ -81,7 +87,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"7ringsextremeversion\""
     },
     {
         "name": "7th Element",
@@ -93,7 +100,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"7thelement\""
     },
     {
         "name": "A La Folie",
@@ -105,7 +113,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"alafolie\""
     },
     {
         "name": "A Little Less Conversation",
@@ -117,7 +126,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"alittlelessconversation\""
     },
     {
         "name": "A Little Party Never Killed Nobody (All We Got)",
@@ -129,7 +139,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"alittlepartyneverkillednobodyallwegot\""
     },
     {
         "name": "A Queda",
@@ -141,7 +152,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"aqueda\""
     },
     {
         "name": "Addicted To You",
@@ -153,7 +165,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"addictedtoyou\""
     },
     {
         "name": "Adeyyo",
@@ -165,7 +178,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"adeyyo\""
     },
     {
         "name": "Adore You",
@@ -177,7 +191,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"adoreyou\""
     },
     {
         "name": "Aerodynamic",
@@ -189,7 +204,8 @@
         "game": "other",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"aerodynamic\""
     },
     {
         "name": "After Party",
@@ -201,7 +217,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"afterparty\""
     },
     {
         "name": "Age Age Every Night",
@@ -213,7 +230,8 @@
         "game": "wii2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"ageageeverynight\""
     },
     {
         "name": "Ain’t My Fault",
@@ -225,7 +243,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"aintmyfault\""
     },
     {
         "name": "Ain’t No Mountain High Enough",
@@ -237,7 +256,8 @@
         "game": "2015",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"aintnomountainhighenough\""
     },
     {
         "name": "Airplanes",
@@ -249,7 +269,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"airplanes\""
     },
     {
         "name": "Alfonso Signorini",
@@ -261,7 +282,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"alfonsosignorini\""
     },
     {
         "name": "All I Want For Christmas Is You",
@@ -273,7 +295,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"alliwantforchristmasisyou\""
     },
     {
         "name": "All The Stars",
@@ -285,7 +308,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"allthestars\""
     },
     {
         "name": "All You Gotta Do (Is Just Dance)",
@@ -297,7 +321,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"allyougottadoisjustdance\""
     },
     {
         "name": "All You Gotta Do (Simple version)",
@@ -309,7 +334,8 @@
         "game": "other",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"allyougottadosimpleversion\""
     },
     {
         "name": "All the Good Girls to Hell",
@@ -321,7 +347,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"allthegoodgirlstohell\""
     },
     {
         "name": "American Boy",
@@ -333,7 +360,8 @@
         "game": "2",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"americanboy\""
     },
     {
         "name": "Among Us",
@@ -345,7 +373,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"amongus\""
     },
     {
         "name": "Animals (extreme version)",
@@ -357,7 +386,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"animalsextremeversion\""
     },
     {
         "name": "Another One Bites the Dust (Stunt Version)",
@@ -369,7 +399,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"anotheronebitestheduststuntversion\""
     },
     {
         "name": "Anything I Do",
@@ -381,7 +412,8 @@
         "game": "2023",
         "amountOfDancers": 3,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"anythingido\""
     },
     {
         "name": "Apache (Jump On It)",
@@ -393,7 +425,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"apachejumponit\""
     },
     {
         "name": "Applause",
@@ -405,7 +438,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 6
+        "sinceVersion": 6,
+        "searchName": "\"applause\""
     },
     {
         "name": "Applause (Alternate)",
@@ -417,7 +451,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"applausealternate\""
     },
     {
         "name": "As It Was",
@@ -429,7 +464,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"asitwas\""
     },
     {
         "name": "Aserejé",
@@ -441,7 +477,8 @@
         "game": "4",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"asereje\""
     },
     {
         "name": "Automaton",
@@ -453,7 +490,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"automaton\""
     },
     {
         "name": "Automaton (Tomato Version)",
@@ -465,7 +503,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"automatontomatoversion\""
     },
     {
         "name": "BOOMBAYAH",
@@ -477,7 +516,8 @@
         "game": "2022",
         "amountOfDancers": 4,
         "difficulty": 4,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"boombayah\""
     },
     {
         "name": "BUTTER (extreme)",
@@ -489,7 +529,8 @@
         "game": "2024",
         "amountOfDancers": 4,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"butterextreme\""
     },
     {
         "name": "Baby Girl",
@@ -501,7 +542,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"babygirl\""
     },
     {
         "name": "Baby Got Back",
@@ -513,7 +555,8 @@
         "game": "dcs3",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"babygotback\""
     },
     {
         "name": "Baby One More Time",
@@ -525,7 +568,8 @@
         "game": "3",
         "amountOfDancers": 4,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"babyonemoretime\""
     },
     {
         "name": "Bad Guy (extreme)",
@@ -537,7 +581,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"badguyextreme\""
     },
     {
         "name": "Bad Habits",
@@ -549,7 +594,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"badhabits\""
     },
     {
         "name": "Bad Romance (Extreme)",
@@ -561,7 +607,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 4
+        "sinceVersion": 4,
+        "searchName": "\"badromanceextreme\""
     },
     {
         "name": "Baianá",
@@ -573,7 +620,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"baiana\""
     },
     {
         "name": "Bailando",
@@ -585,7 +633,8 @@
         "game": "2015",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 4
+        "sinceVersion": 4,
+        "searchName": "\"bailando\""
     },
     {
         "name": "Bailando",
@@ -597,7 +646,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"bailando\""
     },
     {
         "name": "Bailar",
@@ -609,7 +659,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 4
+        "sinceVersion": 4,
+        "searchName": "\"bailar\""
     },
     {
         "name": "Balkan Blast Remix",
@@ -621,7 +672,8 @@
         "game": "2016",
         "amountOfDancers": 4,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"balkanblastremix\""
     },
     {
         "name": "Bang Bang Bang",
@@ -633,7 +685,8 @@
         "game": "2020",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"bangbangbang\""
     },
     {
         "name": "Bang Bang Bang (extreme)",
@@ -645,7 +698,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"bangbangbangextreme\""
     },
     {
         "name": "Bangarang (extreme version)",
@@ -657,7 +711,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"bangarangextremeversion\""
     },
     {
         "name": "Barbara Streisand",
@@ -669,7 +724,8 @@
         "game": "sendhelp",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"barbarastreisand\""
     },
     {
         "name": "Barbie Girl",
@@ -681,7 +737,8 @@
         "game": "2",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"barbiegirl\""
     },
     {
         "name": "Barbra Streisand",
@@ -693,7 +750,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"barbrastreisand\""
     },
     {
         "name": "Barbra Streisand (Extreme)",
@@ -705,7 +763,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"barbrastreisandextreme\""
     },
     {
         "name": "Beat It",
@@ -717,7 +776,8 @@
         "game": "mje",
         "amountOfDancers": 3,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"beatit\""
     },
     {
         "name": "Beautiful Liar",
@@ -729,7 +789,8 @@
         "game": "3",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"beautifulliar\""
     },
     {
         "name": "Beauty and a Beat",
@@ -741,7 +802,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"beautyandabeat\""
     },
     {
         "name": "Beep Beep I’m A Sheep",
@@ -753,7 +815,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"beepbeepimasheep\""
     },
     {
         "name": "Beggin'",
@@ -765,7 +828,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"beggin\""
     },
     {
         "name": "Believer",
@@ -777,7 +841,8 @@
         "game": "2022",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"believer\""
     },
     {
         "name": "Beware of The Boys",
@@ -789,7 +854,8 @@
         "game": "4",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"bewareoftheboys\""
     },
     {
         "name": "Billie",
@@ -801,7 +867,8 @@
         "game": "mje",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"billie\""
     },
     {
         "name": "Birthday",
@@ -813,7 +880,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"birthday\""
     },
     {
         "name": "Black Mamba (Alternate Version)",
@@ -825,7 +893,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"blackmambaalternateversion\""
     },
     {
         "name": "Black Or White ",
@@ -837,7 +906,8 @@
         "game": "mje",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"blackorwhite\""
     },
     {
         "name": "Black Widow",
@@ -849,7 +919,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"blackwidow\""
     },
     {
         "name": "Blame",
@@ -861,7 +932,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 3
+        "sinceVersion": 3,
+        "searchName": "\"blame\""
     },
     {
         "name": "Blame It On The Boogie",
@@ -873,7 +945,8 @@
         "game": "2014",
         "amountOfDancers": 4,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"blameitontheboogie\""
     },
     {
         "name": "Blame It On The Boogie (Extreme Version)",
@@ -885,7 +958,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"blameitontheboogieextremeversion\""
     },
     {
         "name": "Blinding Lights",
@@ -897,7 +971,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"blindinglights\""
     },
     {
         "name": "Bloody Mary",
@@ -909,7 +984,8 @@
         "game": "plus",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"bloodymary\""
     },
     {
         "name": "Blow Your Mind (Mwah)",
@@ -921,7 +997,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"blowyourmindmwah\""
     },
     {
         "name": "Blue (Da Ba Dee)",
@@ -933,7 +1010,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"bluedabadee\""
     },
     {
         "name": "Blurred Lines (Extreme Version)",
@@ -945,7 +1023,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"blurredlinesextremeversion\""
     },
     {
         "name": "Bo Peep Bo Peep",
@@ -957,7 +1036,8 @@
         "game": "wii2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"bopeepbopeep\""
     },
     {
         "name": "Body Movin'",
@@ -969,7 +1049,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"bodymovin\""
     },
     {
         "name": "Bonbon",
@@ -981,7 +1062,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"bonbon\""
     },
     {
         "name": "Boogie Wonderland",
@@ -993,7 +1075,8 @@
         "game": "3",
         "amountOfDancers": 4,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"boogiewonderland\""
     },
     {
         "name": "Boom",
@@ -1005,7 +1088,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": "10"
+        "sinceVersion": "10",
+        "searchName": "\"boom\""
     },
     {
         "name": "Boom Boom",
@@ -1017,7 +1101,8 @@
         "game": "2018",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"boomboom\""
     },
     {
         "name": "Boom Clap",
@@ -1029,7 +1114,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"boomclap\""
     },
     {
         "name": "Boombaya (alternate)",
@@ -1041,7 +1127,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"boombayaalternate\""
     },
     {
         "name": "Born This Way",
@@ -1053,7 +1140,8 @@
         "game": "2016",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 5
+        "sinceVersion": 5,
+        "searchName": "\"bornthisway\""
     },
     {
         "name": "Born This Way (Nerd Version)",
@@ -1065,7 +1153,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"bornthiswaynerdversion\""
     },
     {
         "name": "Born To Be Wild",
@@ -1077,7 +1166,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"borntobewild\""
     },
     {
         "name": "Boss Bitch",
@@ -1089,7 +1179,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"bossbitch\""
     },
     {
         "name": "Boy With Luv (extreme)",
@@ -1101,7 +1192,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"boywithluvextreme\""
     },
     {
         "name": "Boy with luv",
@@ -1113,7 +1205,8 @@
         "game": "2023",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"boywithluv\""
     },
     {
         "name": "Boys",
@@ -1125,7 +1218,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"boys\""
     },
     {
         "name": "Boy’s a Liar Pt. 2",
@@ -1137,7 +1231,8 @@
         "game": "2024",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"boysaliarpt2\""
     },
     {
         "name": "Break My Heart",
@@ -1149,7 +1244,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 5
+        "sinceVersion": 5,
+        "searchName": "\"breakmyheart\""
     },
     {
         "name": "Break free",
@@ -1161,7 +1257,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"breakfree\""
     },
     {
         "name": "Bring Me To Life",
@@ -1173,7 +1270,8 @@
         "game": "2023",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"bringmetolife\""
     },
     {
         "name": "Build A Bitch",
@@ -1185,7 +1283,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"buildabitch\""
     },
     {
         "name": "Built For This",
@@ -1197,7 +1296,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"builtforthis\""
     },
     {
         "name": "Bum Bum Tam Tam",
@@ -1209,7 +1309,8 @@
         "game": "2019",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"bumbumtamtam\""
     },
     {
         "name": "Bum Bum Tam Tam (Mad Scientist Version)",
@@ -1221,7 +1322,8 @@
         "game": "2019",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"bumbumtamtammadscientistversion\""
     },
     {
         "name": "Burn",
@@ -1233,7 +1335,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"burn\""
     },
     {
         "name": "Buscando (extreme)",
@@ -1245,7 +1348,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"buscandoextreme\""
     },
     {
         "name": "Butter",
@@ -1257,7 +1361,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"butter\""
     },
     {
         "name": "Butterfly on your Right Shoulder",
@@ -1269,7 +1374,8 @@
         "game": "fanmade",
         "amountOfDancers": 2,
         "difficulty": " 1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"butterflyonyourrightshoulder\""
     },
     {
         "name": "Buttons",
@@ -1281,7 +1387,8 @@
         "game": "2022",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"buttons\""
     },
     {
         "name": "C'mon",
@@ -1293,7 +1400,8 @@
         "game": "2014",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"cmon\""
     },
     {
         "name": "Cake By The Ocean (Earphones Version)",
@@ -1305,7 +1413,8 @@
         "game": "2017",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"cakebytheoceanearphonesversion\""
     },
     {
         "name": "Cake by the Ocean",
@@ -1317,7 +1426,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"cakebytheocean\""
     },
     {
         "name": "Calabria 2007",
@@ -1329,7 +1439,8 @@
         "game": "2025",
         "amountOfDancers": 3,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"calabria2007\""
     },
     {
         "name": "California Gurls",
@@ -1341,7 +1452,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"californiagurls\""
     },
     {
         "name": "Call Me Maybe (Alternate)",
@@ -1353,7 +1465,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"callmemaybealternate\""
     },
     {
         "name": "Call me maybe",
@@ -1365,7 +1478,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"callmemaybe\""
     },
     {
         "name": "Calm Down",
@@ -1377,7 +1491,8 @@
         "game": "2024",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"calmdown\""
     },
     {
         "name": "Calypso",
@@ -1389,7 +1504,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"calypso\""
     },
     {
         "name": "Can't Hold Us",
@@ -1401,7 +1517,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"cantholdus\""
     },
     {
         "name": "Can't Take My Eyes Off You",
@@ -1413,7 +1530,8 @@
         "game": "4",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"canttakemyeyesoffyou\""
     },
     {
         "name": "Can't Take My Eyes Off You (Wrestler Version)",
@@ -1425,7 +1543,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"canttakemyeyesoffyouwrestlerversion\""
     },
     {
         "name": "Candy",
@@ -1437,7 +1556,8 @@
         "game": "2014",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"candy\""
     },
     {
         "name": "Canned Heat",
@@ -1449,7 +1569,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"cannedheat\""
     },
     {
         "name": "Can’t Feel My Face",
@@ -1461,7 +1582,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"cantfeelmyface\""
     },
     {
         "name": "Can’t Stop the Feeling! (Danceverses Prince Version)",
@@ -1473,7 +1595,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"cantstopthefeelingdanceversesprinceversion\""
     },
     {
         "name": "Can’t Tame Her",
@@ -1485,7 +1608,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"canttameher\""
     },
     {
         "name": "Cercavo Amore",
@@ -1497,7 +1621,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"cercavoamore\""
     },
     {
         "name": "Chacarron",
@@ -1509,7 +1634,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"chacarron\""
     },
     {
         "name": "Chained to the Rhythm",
@@ -1521,7 +1647,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"chainedtotherhythm\""
     },
     {
         "name": "Chandelier",
@@ -1533,7 +1660,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"chandelier\""
     },
     {
         "name": "Chandelier (Contemporary Dance Version)",
@@ -1545,7 +1673,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"chandeliercontemporarydanceversion\""
     },
     {
         "name": "Chantaje",
@@ -1557,7 +1686,8 @@
         "game": "2018",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"chantaje\""
     },
     {
         "name": "Chantaje (Subway Version)",
@@ -1569,7 +1699,8 @@
         "game": "2018",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"chantajesubwayversion\""
     },
     {
         "name": "Cheap Thrills",
@@ -1581,7 +1712,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"cheapthrills\""
     },
     {
         "name": "China",
@@ -1593,7 +1725,8 @@
         "game": "2022",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"china\""
     },
     {
         "name": "Chiwawa",
@@ -1605,7 +1738,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"chiwawa\""
     },
     {
         "name": "Chiwawa (Barbie Version)",
@@ -1617,7 +1751,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"chiwawabarbieversion\""
     },
     {
         "name": "Circus",
@@ -1629,7 +1764,8 @@
         "game": "2016",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"circus\""
     },
     {
         "name": "Circus (Extreme)",
@@ -1641,7 +1777,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"circusextreme\""
     },
     {
         "name": "Come Back Home",
@@ -1653,7 +1790,8 @@
         "game": "2021",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"comebackhome\""
     },
     {
         "name": "Con Altura",
@@ -1665,7 +1803,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"conaltura\""
     },
     {
         "name": "Con Calma",
@@ -1677,7 +1816,8 @@
         "game": "2020",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"concalma\""
     },
     {
         "name": "Cool for the Summer",
@@ -1689,7 +1829,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"coolforthesummer\""
     },
     {
         "name": "Cosmic Girl",
@@ -1701,7 +1842,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"cosmicgirl\""
     },
     {
         "name": "Cosmic Party ",
@@ -1713,7 +1855,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"cosmicparty\""
     },
     {
         "name": "Cotton Eye Joe",
@@ -1725,7 +1868,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"cottoneyejoe\""
     },
     {
         "name": "Counting Stars",
@@ -1737,7 +1881,8 @@
         "game": "dcs",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"countingstars\""
     },
     {
         "name": "Cradles",
@@ -1749,7 +1894,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"cradles\""
     },
     {
         "name": "Crayon",
@@ -1761,7 +1907,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"crayon\""
     },
     {
         "name": "Crazy Little Thing",
@@ -1773,7 +1920,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"crazylittlething\""
     },
     {
         "name": "Criminal",
@@ -1785,7 +1933,8 @@
         "game": "2019",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"criminal\""
     },
     {
         "name": "Crucified",
@@ -1797,7 +1946,8 @@
         "game": "4",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"crucified\""
     },
     {
         "name": "Crying Blood",
@@ -1809,7 +1959,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"cryingblood\""
     },
     {
         "name": "Cupid Shuffle",
@@ -1821,7 +1972,8 @@
         "game": "dc3",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"cupidshuffle\""
     },
     {
         "name": "Cure For Me (Alternate)",
@@ -1833,7 +1985,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"cureformealternate\""
     },
     {
         "name": "D.A.N.C.E.",
@@ -1845,7 +1998,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"dance\""
     },
     {
         "name": "DJ Got Us Fallin’ In Love",
@@ -1857,7 +2011,8 @@
         "game": "2023",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"djgotusfallininlove\""
     },
     {
         "name": "DNA",
@@ -1869,7 +2024,8 @@
         "game": "fanmade",
         "amountOfDancers": 4,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"dna\""
     },
     {
         "name": "Daddy",
@@ -1881,7 +2037,8 @@
         "game": "2017",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"daddy\""
     },
     {
         "name": "Daddy Cool",
@@ -1893,7 +2050,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"daddycool\""
     },
     {
         "name": "Dagomba",
@@ -1905,7 +2063,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"dagomba\""
     },
     {
         "name": "Daisy",
@@ -1917,7 +2076,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"daisy\""
     },
     {
         "name": "Dame Tu Cosita",
@@ -1929,7 +2089,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"dametucosita\""
     },
     {
         "name": "Dance All Nite",
@@ -1941,7 +2102,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"danceallnite\""
     },
     {
         "name": "Dance Monkey",
@@ -1953,7 +2115,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"dancemonkey\""
     },
     {
         "name": "Dance My Generation",
@@ -1965,7 +2128,8 @@
         "game": "wiiu",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"dancemygeneration\""
     },
     {
         "name": "Dancin (Krono Remix)",
@@ -1977,7 +2141,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"dancinkronoremix\""
     },
     {
         "name": "Dancing Diva",
@@ -1989,7 +2154,8 @@
         "game": "china_or_something_idk",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"dancingdiva\""
     },
     {
         "name": "Dancing Queen (Prom Version)",
@@ -2001,7 +2167,8 @@
         "game": "other",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"dancingqueenpromversion\""
     },
     {
         "name": "Dancing Queen (solo)",
@@ -2013,7 +2180,8 @@
         "game": "abbaycd",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"dancingqueensolo\""
     },
     {
         "name": "Dancing Queen (trio)",
@@ -2025,7 +2193,8 @@
         "game": "2018",
         "amountOfDancers": 3,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"dancingqueentrio\""
     },
     {
         "name": "Danger! High Voltage",
@@ -2037,7 +2206,8 @@
         "game": "2023",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"dangerhighvoltage\""
     },
     {
         "name": "Danger! High Voltage (8-bit)",
@@ -2049,7 +2219,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"dangerhighvoltage8-bit\""
     },
     {
         "name": "Dançando",
@@ -2061,7 +2232,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"dancando\""
     },
     {
         "name": "Dare",
@@ -2073,7 +2245,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"dare\""
     },
     {
         "name": "Dark Horse",
@@ -2085,7 +2258,8 @@
         "game": "2015",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"darkhorse\""
     },
     {
         "name": "Ddu-Du Ddu-Du",
@@ -2097,7 +2271,8 @@
         "game": "2019",
         "amountOfDancers": 4,
         "difficulty": "3",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"ddu-duddu-du\""
     },
     {
         "name": "Despacito",
@@ -2109,7 +2284,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"despacito\""
     },
     {
         "name": "Diamonds",
@@ -2121,7 +2297,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"diamonds\""
     },
     {
         "name": "Dibby Dibby Sound",
@@ -2133,7 +2310,8 @@
         "game": "2021",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"dibbydibbysound\""
     },
     {
         "name": "Die Young",
@@ -2145,7 +2323,8 @@
         "game": "4",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"dieyoung\""
     },
     {
         "name": "Diggin’ in the Dirt",
@@ -2157,7 +2336,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"diggininthedirt\""
     },
     {
         "name": "Diggy",
@@ -2169,7 +2349,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"diggy\""
     },
     {
         "name": "Dingga",
@@ -2181,7 +2362,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"dingga\""
     },
     {
         "name": "Disco Inferno",
@@ -2193,7 +2375,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"discoinferno\""
     },
     {
         "name": "Disturbia",
@@ -2205,7 +2388,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"disturbia\""
     },
     {
         "name": "Domino",
@@ -2217,7 +2401,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"domino\""
     },
     {
         "name": "Don't Cha",
@@ -2229,7 +2414,8 @@
         "game": "2024",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"dontcha\""
     },
     {
         "name": "Don't Cha (Extreme)",
@@ -2241,7 +2427,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"dontchaextreme\""
     },
     {
         "name": "Don't Rush",
@@ -2253,7 +2440,8 @@
         "game": "2024",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"dontrush\""
     },
     {
         "name": "Don't Start Now",
@@ -2265,7 +2453,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 4
+        "sinceVersion": 4,
+        "searchName": "\"dontstartnow\""
     },
     {
         "name": "Don't Start Now (Extreme)",
@@ -2277,7 +2466,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"dontstartnowextreme\""
     },
     {
         "name": "Done For Me",
@@ -2289,7 +2479,8 @@
         "game": "unlimited",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"doneforme\""
     },
     {
         "name": "Don’t Let Me Down",
@@ -2301,7 +2492,8 @@
         "game": "2017",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"dontletmedown\""
     },
     {
         "name": "Don’t Stop Me Now (panda version)",
@@ -2313,7 +2505,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"dontstopmenowpandaversion\""
     },
     {
         "name": "Don’t Worry",
@@ -2325,7 +2518,8 @@
         "game": "2017",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"dontworry\""
     },
     {
         "name": "Don’t You Worry Child",
@@ -2337,7 +2531,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"dontyouworrychild\""
     },
     {
         "name": "Dragostea Din Tei",
@@ -2349,7 +2544,8 @@
         "game": "2017",
         "amountOfDancers": 3,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"dragosteadintei\""
     },
     {
         "name": "Drop the Mambo",
@@ -2361,7 +2557,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 5
+        "sinceVersion": 5,
+        "searchName": "\"dropthemambo\""
     },
     {
         "name": "Drum Go Dum",
@@ -2373,7 +2570,8 @@
         "game": "2021",
         "amountOfDancers": 4,
         "difficulty": 4,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"drumgodum\""
     },
     {
         "name": "Dynamite",
@@ -2385,7 +2583,8 @@
         "game": "3",
         "amountOfDancers": 4,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"dynamite\""
     },
     {
         "name": "Dynamite (Extreme)",
@@ -2397,7 +2596,8 @@
         "game": "2023",
         "amountOfDancers": 4,
         "difficulty": "4",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"dynamiteextreme\""
     },
     {
         "name": "Dynamite - Alternative",
@@ -2409,7 +2609,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"dynamite-alternative\""
     },
     {
         "name": "E.T.",
@@ -2421,7 +2622,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"et\""
     },
     {
         "name": "Earth Song",
@@ -2433,7 +2635,8 @@
         "game": "mje",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"earthsong\""
     },
     {
         "name": "Empire Today",
@@ -2445,7 +2648,8 @@
         "game": "ksw",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"empiretoday\""
     },
     {
         "name": "Enemy",
@@ -2457,7 +2661,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"enemy\""
     },
     {
         "name": "Error",
@@ -2469,7 +2674,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"error\""
     },
     {
         "name": "Euphoria",
@@ -2481,7 +2687,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"euphoria\""
     },
     {
         "name": "Everybody",
@@ -2493,7 +2700,8 @@
         "game": "2020",
         "amountOfDancers": 4,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"everybody\""
     },
     {
         "name": "Eye of the Tiger",
@@ -2505,7 +2713,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"eyeofthetiger\""
     },
     {
         "name": "Faded",
@@ -2517,7 +2726,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"faded\""
     },
     {
         "name": "Familiar",
@@ -2529,7 +2739,8 @@
         "game": "3:12",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"familiar\""
     },
     {
         "name": "Fancy",
@@ -2541,7 +2752,8 @@
         "game": "2020",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"fancy\""
     },
     {
         "name": "Fancy",
@@ -2553,7 +2765,8 @@
         "game": "2016",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"fancy\""
     },
     {
         "name": "Fancy Footwork",
@@ -2565,7 +2778,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"fancyfootwork\""
     },
     {
         "name": "Fantastic Baby",
@@ -2577,7 +2791,8 @@
         "game": "wiiu",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"fantasticbaby\""
     },
     {
         "name": "Farfalle",
@@ -2589,7 +2804,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"farfalle\""
     },
     {
         "name": "Feel It Still",
@@ -2601,7 +2817,8 @@
         "game": "unlimited",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"feelitstill\""
     },
     {
         "name": "Feel So Right",
@@ -2613,7 +2830,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"feelsoright\""
     },
     {
         "name": "Feel Special",
@@ -2625,7 +2843,8 @@
         "game": "2021",
         "amountOfDancers": 3,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"feelspecial\""
     },
     {
         "name": "Feel Special (Extreme)",
@@ -2637,7 +2856,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"feelspecialextreme\""
     },
     {
         "name": "Feel This Moment",
@@ -2649,7 +2869,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"feelthismoment\""
     },
     {
         "name": "Fine China",
@@ -2661,7 +2882,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"finechina\""
     },
     {
         "name": "Fine China (Extreme)",
@@ -2673,7 +2895,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"finechinaextreme\""
     },
     {
         "name": "Finesse (extreme)",
@@ -2685,7 +2908,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"finesseextreme\""
     },
     {
         "name": "Firework",
@@ -2697,7 +2921,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"firework\""
     },
     {
         "name": "Fit But You Know It",
@@ -2709,7 +2934,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"fitbutyouknowit\""
     },
     {
         "name": "Five Nights At Freddy's",
@@ -2721,7 +2947,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"fivenightsatfreddys\""
     },
     {
         "name": "Flash Pose",
@@ -2733,7 +2960,8 @@
         "game": "2022",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"flashpose\""
     },
     {
         "name": "Flowers",
@@ -2745,7 +2973,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"flowers\""
     },
     {
         "name": "Follow The White Rabbit",
@@ -2757,7 +2986,8 @@
         "game": "unlimited",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"followthewhiterabbit\""
     },
     {
         "name": "Follow the Leader",
@@ -2769,7 +2999,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 3
+        "sinceVersion": 3,
+        "searchName": "\"followtheleader\""
     },
     {
         "name": "Footloose",
@@ -2781,7 +3012,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": "10"
+        "sinceVersion": "10",
+        "searchName": "\"footloose\""
     },
     {
         "name": "Forget you",
@@ -2793,7 +3025,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"forgetyou\""
     },
     {
         "name": "Fortnite Dance Remix",
@@ -2805,7 +3038,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"fortnitedanceremix\""
     },
     {
         "name": "Freed from Desire",
@@ -2817,7 +3051,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"freedfromdesire\""
     },
     {
         "name": "Fun",
@@ -2829,7 +3064,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"fun\""
     },
     {
         "name": "Funhouse",
@@ -2841,7 +3077,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"funhouse\""
     },
     {
         "name": "Funkytown",
@@ -2853,7 +3090,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"funkytown\""
     },
     {
         "name": "Gangnam Style",
@@ -2865,7 +3103,8 @@
         "game": "4",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"gangnamstyle\""
     },
     {
         "name": "Gargamel",
@@ -2877,7 +3116,8 @@
         "game": "smurfs",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"gargamel\""
     },
     {
         "name": "Gee",
@@ -2889,7 +3129,8 @@
         "game": "china_or_something_idk",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"gee\""
     },
     {
         "name": "Gentleman",
@@ -2901,7 +3142,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"gentleman\""
     },
     {
         "name": "Geragerapō No Uta",
@@ -2913,7 +3155,8 @@
         "game": "ykwd",
         "amountOfDancers": 4,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"gerageraponouta\""
     },
     {
         "name": "Gerappo Dance Train",
@@ -2925,7 +3168,8 @@
         "game": "ykwd",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"gerappodancetrain\""
     },
     {
         "name": "Get Busy",
@@ -2937,7 +3181,8 @@
         "game": "2020",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"getbusy\""
     },
     {
         "name": "Get Get Down",
@@ -2949,7 +3194,8 @@
         "game": "2021",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"getgetdown\""
     },
     {
         "name": "Get Lucky",
@@ -2961,7 +3207,8 @@
         "game": "2014",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"getlucky\""
     },
     {
         "name": "Get Ugly",
@@ -2973,7 +3220,8 @@
         "game": "2017",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"getugly\""
     },
     {
         "name": "Ghost 'n' Stuff",
@@ -2985,7 +3233,8 @@
         "game": "ksw",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"ghostnstuff\""
     },
     {
         "name": "Ghost In The Keys",
@@ -2997,7 +3246,8 @@
         "game": "2017",
         "amountOfDancers": 4,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"ghostinthekeys\""
     },
     {
         "name": "Ghostbusters (sweat version)",
@@ -3009,7 +3259,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"ghostbusterssweatversion\""
     },
     {
         "name": "Ghosts",
@@ -3021,7 +3272,8 @@
         "game": "mje",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"ghosts\""
     },
     {
         "name": "Gibberish",
@@ -3033,7 +3285,8 @@
         "game": "2016",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"gibberish\""
     },
     {
         "name": "Gimme More",
@@ -3045,7 +3298,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"gimmemore\""
     },
     {
         "name": "Gimme That",
@@ -3057,7 +3311,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"gimmethat\""
     },
     {
         "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
@@ -3069,7 +3324,8 @@
         "game": "abbaycd",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"gimmegimmegimmeamanaftermidnight\""
     },
     {
         "name": "Girl Like Me (fanmade)",
@@ -3081,7 +3337,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"girllikemefanmade\""
     },
     {
         "name": "Girlfriend",
@@ -3093,7 +3350,8 @@
         "game": "2",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"girlfriend\""
     },
     {
         "name": "Girls Just Want to Have Fun",
@@ -3105,7 +3363,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"girlsjustwanttohavefun\""
     },
     {
         "name": "Girls Like",
@@ -3117,7 +3376,8 @@
         "game": "2021",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"girlslike\""
     },
     {
         "name": "Give Me Everything",
@@ -3129,7 +3389,8 @@
         "game": "fanmade",
         "amountOfDancers": 4,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"givemeeverything\""
     },
     {
         "name": "Give That Wolf A Banana",
@@ -3141,7 +3402,8 @@
         "game": "plus",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"givethatwolfabanana\""
     },
     {
         "name": "God Is A Woman",
@@ -3153,7 +3415,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"godisawoman\""
     },
     {
         "name": "God is a Woman (Alternate Seated Ver.)",
@@ -3165,7 +3428,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"godisawomanalternateseatedver\""
     },
     {
         "name": "Gokuraku Joudo",
@@ -3177,7 +3441,8 @@
         "game": "china_or_something_idk",
         "amountOfDancers": 3,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"gokurakujoudo\""
     },
     {
         "name": "Gold Dust",
@@ -3189,7 +3454,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"golddust\""
     },
     {
         "name": "Gonna Make You Sweat (Everybody Dance Now)",
@@ -3201,7 +3467,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"gonnamakeyousweateverybodydancenow\""
     },
     {
         "name": "Good 4 U",
@@ -3213,7 +3480,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"good4u\""
     },
     {
         "name": "Good Feeling",
@@ -3225,7 +3493,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"goodfeeling\""
     },
     {
         "name": "Good Feeling (extreme version)",
@@ -3237,7 +3506,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"goodfeelingextremeversion\""
     },
     {
         "name": "Good Time",
@@ -3249,7 +3519,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"goodtime\""
     },
     {
         "name": "Good ones",
@@ -3261,7 +3532,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"goodones\""
     },
     {
         "name": "Greedy",
@@ -3273,7 +3545,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"greedy\""
     },
     {
         "name": "Groove",
@@ -3285,7 +3558,8 @@
         "game": "2017",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"groove\""
     },
     {
         "name": "HIP",
@@ -3297,7 +3571,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"hip\""
     },
     {
         "name": "HandClap",
@@ -3309,7 +3584,8 @@
         "game": "2016",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"handclap\""
     },
     {
         "name": "HandClap (World Cup Champion Version)",
@@ -3321,7 +3597,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"handclapworldcupchampionversion\""
     },
     {
         "name": "Happier",
@@ -3333,7 +3610,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"happier\""
     },
     {
         "name": "Happier Than Ever",
@@ -3345,7 +3623,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"happierthanever\""
     },
     {
         "name": "Happy",
@@ -3357,7 +3636,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 7
+        "sinceVersion": 7,
+        "searchName": "\"happy\""
     },
     {
         "name": "Happy Birthday To You",
@@ -3369,7 +3649,8 @@
         "game": "other",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"happybirthdaytoyou\""
     },
     {
         "name": "Harajuku Iyahoi",
@@ -3381,7 +3662,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": "10"
+        "sinceVersion": "10",
+        "searchName": "\"harajukuiyahoi\""
     },
     {
         "name": "Hatsukoitōge de Geragerapō",
@@ -3393,7 +3675,8 @@
         "game": "ykwd",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"hatsukoitogedegeragerapo\""
     },
     {
         "name": "Havana",
@@ -3405,7 +3688,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 7
+        "sinceVersion": 7,
+        "searchName": "\"havana\""
     },
     {
         "name": "Havana (Tango Version)",
@@ -3417,7 +3701,8 @@
         "game": "2019",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"havanatangoversion\""
     },
     {
         "name": "Head & Heart",
@@ -3429,7 +3714,8 @@
         "game": "2021",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"head&heart\""
     },
     {
         "name": "Heartbeat Song",
@@ -3441,7 +3727,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"heartbeatsong\""
     },
     {
         "name": "Heat Seeker",
@@ -3453,7 +3740,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"heatseeker\""
     },
     {
         "name": "Heat Waves",
@@ -3465,7 +3753,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"heatwaves\""
     },
     {
         "name": "Hey Jessie",
@@ -3477,7 +3766,8 @@
         "game": "disneyparty",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"heyjessie\""
     },
     {
         "name": "Hey Mama",
@@ -3489,7 +3779,8 @@
         "game": "2016",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 4
+        "sinceVersion": 4,
+        "searchName": "\"heymama\""
     },
     {
         "name": "Hey Ya!",
@@ -3501,7 +3792,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"heyya\""
     },
     {
         "name": "Hips Don’t Lie",
@@ -3513,7 +3805,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"hipsdontlie\""
     },
     {
         "name": "Hit ’Em Up Style (Oops!)",
@@ -3525,7 +3818,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"hitemupstyleoops\""
     },
     {
         "name": "Hold My Hand",
@@ -3537,7 +3831,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"holdmyhand\""
     },
     {
         "name": "Holding Out for a Hero",
@@ -3549,7 +3844,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"holdingoutforahero\""
     },
     {
         "name": "Hollaback Girl",
@@ -3561,7 +3857,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"hollabackgirl\""
     },
     {
         "name": "Hot For Me",
@@ -3573,7 +3870,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"hotforme\""
     },
     {
         "name": "Hot N Cold",
@@ -3585,7 +3883,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"hotncold\""
     },
     {
         "name": "How Far I'll Go",
@@ -3597,7 +3896,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"howfarillgo\""
     },
     {
         "name": "Human",
@@ -3609,7 +3909,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"human\""
     },
     {
         "name": "Human ",
@@ -3621,7 +3922,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"human\""
     },
     {
         "name": "Hype",
@@ -3633,7 +3935,8 @@
         "game": "unlimited",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"hype\""
     },
     {
         "name": "I Am My Own Muse",
@@ -3645,7 +3948,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"iammyownmuse\""
     },
     {
         "name": "I Am The Best (Extreme Version)",
@@ -3657,7 +3961,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"iamthebestextremeversion\""
     },
     {
         "name": "I Am the Best (내가 제일 잘 나가)",
@@ -3669,7 +3974,8 @@
         "game": "2020",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"iamthebestnaegajeiljalnaga\""
     },
     {
         "name": "I Don’t Feel Like Dancin’",
@@ -3681,7 +3987,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"idontfeellikedancin\""
     },
     {
         "name": "I Feel It Coming",
@@ -3693,7 +4000,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"ifeelitcoming\""
     },
     {
         "name": "I Gotta Feeling",
@@ -3705,7 +4013,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"igottafeeling\""
     },
     {
         "name": "I Kissed a Girl",
@@ -3717,7 +4026,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"ikissedagirl\""
     },
     {
         "name": "I Knew You Were Trouble",
@@ -3729,7 +4039,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"iknewyouweretrouble\""
     },
     {
         "name": "I Like to Move It",
@@ -3741,7 +4052,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"iliketomoveit\""
     },
     {
         "name": "I Want You Back",
@@ -3753,7 +4065,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"iwantyouback\""
     },
     {
         "name": "I Was Made For Lovin’ You",
@@ -3765,7 +4078,8 @@
         "game": "3",
         "amountOfDancers": 4,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"iwasmadeforlovinyou\""
     },
     {
         "name": "I Will Survive",
@@ -3777,7 +4091,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"iwillsurvive\""
     },
     {
         "name": "I like it",
@@ -3789,7 +4104,8 @@
         "game": "2020",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"ilikeit\""
     },
     {
         "name": "I love it",
@@ -3801,7 +4117,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"iloveit\""
     },
     {
         "name": "I need your love",
@@ -3813,7 +4130,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"ineedyourlove\""
     },
     {
         "name": "I wanna dance with somebody",
@@ -3825,7 +4143,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"iwannadancewithsomebody\""
     },
     {
         "name": "I'm Good (Blue)",
@@ -3837,7 +4156,8 @@
         "game": "2024",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"imgoodblue\""
     },
     {
         "name": "I'm Good (Blue) (Extreme Version)",
@@ -3849,7 +4169,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"imgoodblueextremeversion\""
     },
     {
         "name": "I'm Han Solo",
@@ -3861,7 +4182,8 @@
         "game": "ksw",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"imhansolo\""
     },
     {
         "name": "I'm Still Standing",
@@ -3873,7 +4195,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"imstillstanding\""
     },
     {
         "name": "I'm a Marionette",
@@ -3885,7 +4208,8 @@
         "game": "other",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"imamarionette\""
     },
     {
         "name": "I'm an Albatroaz",
@@ -3897,7 +4221,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"imanalbatroaz\""
     },
     {
         "name": "Ice Cream",
@@ -3909,7 +4234,8 @@
         "game": "2021",
         "amountOfDancers": 4,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"icecream\""
     },
     {
         "name": "Idol Wa Ooh-Nya-Nya No Ken",
@@ -3921,7 +4247,8 @@
         "game": "yokai_special",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"idolwaooh-nya-nyanoken\""
     },
     {
         "name": "Ievan Polkka",
@@ -3933,7 +4260,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"ievanpolkka\""
     },
     {
         "name": "If You Wanna Party",
@@ -3945,7 +4273,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"ifyouwannaparty\""
     },
     {
         "name": "Iko Iko",
@@ -3957,7 +4286,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"ikoiko\""
     },
     {
         "name": "Ikuze! Kaitō Shōjo",
@@ -3969,7 +4299,8 @@
         "game": "wiiu",
         "amountOfDancers": 2,
         "difficulty": "3",
-        "sinceVersion": "10"
+        "sinceVersion": "10",
+        "searchName": "\"ikuzekaitoshojo\""
     },
     {
         "name": "In the Hall of the Pixel King",
@@ -3981,7 +4312,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"inthehallofthepixelking\""
     },
     {
         "name": "Industry Baby",
@@ -3993,7 +4325,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"industrybaby\""
     },
     {
         "name": "Instruction",
@@ -4005,7 +4338,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"instruction\""
     },
     {
         "name": "Into You",
@@ -4017,7 +4351,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 7
+        "sinceVersion": 7,
+        "searchName": "\"intoyou\""
     },
     {
         "name": "Into the Unknown",
@@ -4029,7 +4364,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"intotheunknown\""
     },
     {
         "name": "Istanbul (Not Constantinople)",
@@ -4041,7 +4377,8 @@
         "game": "4",
         "amountOfDancers": 4,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"istanbulnotconstantinople\""
     },
     {
         "name": "It's You",
@@ -4053,7 +4390,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"itsyou\""
     },
     {
         "name": "It's the Most Wonderful Time of the Year",
@@ -4065,7 +4403,8 @@
         "game": "2024",
         "amountOfDancers": 3,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"itsthemostwonderfultimeoftheyear\""
     },
     {
         "name": "It’s Raining Men",
@@ -4077,7 +4416,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"itsrainingmen\""
     },
     {
         "name": "I’ll Make a Man Out of You",
@@ -4089,7 +4429,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"illmakeamanoutofyou\""
     },
     {
         "name": "I’m Outta Love",
@@ -4101,7 +4442,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"imouttalove\""
     },
     {
         "name": "I’ve Got a Dream",
@@ -4113,7 +4455,8 @@
         "game": "disneyparty",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"ivegotadream\""
     },
     {
         "name": "Je sais pas danser",
@@ -4125,7 +4468,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"jesaispasdanser\""
     },
     {
         "name": "Jingle Bells",
@@ -4137,7 +4481,8 @@
         "game": "2019",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"jinglebells\""
     },
     {
         "name": "Jinsei Dramatic",
@@ -4149,7 +4494,8 @@
         "game": "ykwd",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"jinseidramatic\""
     },
     {
         "name": "John Cena",
@@ -4161,7 +4507,8 @@
         "game": "unlimited",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"johncena\""
     },
     {
         "name": "Jopping",
@@ -4173,7 +4520,8 @@
         "game": "2022",
         "amountOfDancers": 3,
         "difficulty": 4,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"jopping\""
     },
     {
         "name": "Judas",
@@ -4185,7 +4533,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"judas\""
     },
     {
         "name": "Juice",
@@ -4197,7 +4546,8 @@
         "game": "2021",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"juice\""
     },
     {
         "name": "Juice (Yummy Version)",
@@ -4209,7 +4559,8 @@
         "game": "2021",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"juiceyummyversion\""
     },
     {
         "name": "Jump",
@@ -4221,7 +4572,8 @@
         "game": "2",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"jump\""
     },
     {
         "name": "Jungle Boogie",
@@ -4233,7 +4585,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"jungleboogie\""
     },
     {
         "name": "Just Dance",
@@ -4245,7 +4598,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 7
+        "sinceVersion": 7,
+        "searchName": "\"justdance\""
     },
     {
         "name": "Just Got Paid",
@@ -4257,7 +4611,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 7
+        "sinceVersion": 7,
+        "searchName": "\"justgotpaid\""
     },
     {
         "name": "Just Mario",
@@ -4269,7 +4624,8 @@
         "game": "wii",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"justmario\""
     },
     {
         "name": "Just an Illusion",
@@ -4281,7 +4637,8 @@
         "game": "2020",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"justanillusion\""
     },
     {
         "name": "Just the way you are",
@@ -4293,7 +4650,8 @@
         "game": "ksw",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"justthewayyouare\""
     },
     {
         "name": "Kashyyyk",
@@ -4305,7 +4663,8 @@
         "game": "other",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"kashyyyk\""
     },
     {
         "name": "Keep In Touch",
@@ -4317,7 +4676,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"keepintouch\""
     },
     {
         "name": "Kick It",
@@ -4329,7 +4689,8 @@
         "game": "2021",
         "amountOfDancers": 4,
         "difficulty": "3",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"kickit\""
     },
     {
         "name": "Kick It (extreme)",
@@ -4341,7 +4702,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"kickitextreme\""
     },
     {
         "name": "Kill Bill",
@@ -4353,7 +4715,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"killbill\""
     },
     {
         "name": "Kill This Love",
@@ -4365,7 +4728,8 @@
         "game": "2020",
         "amountOfDancers": 4,
         "difficulty": 3,
-        "sinceVersion": 4
+        "sinceVersion": 4,
+        "searchName": "\"killthislove\""
     },
     {
         "name": "Kill This Love (Extreme)",
@@ -4377,7 +4741,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"killthisloveextreme\""
     },
     {
         "name": "Kings & Queens",
@@ -4389,7 +4754,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 5
+        "sinceVersion": 5,
+        "searchName": "\"kings&queens\""
     },
     {
         "name": "Kiss Me More",
@@ -4401,7 +4767,8 @@
         "game": "2022",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"kissmemore\""
     },
     {
         "name": "Kissing Strangers (Charleston Version)",
@@ -4413,7 +4780,8 @@
         "game": "2018",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"kissingstrangerscharlestonversion\""
     },
     {
         "name": "Know No Better",
@@ -4425,7 +4793,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"knownobetter\""
     },
     {
         "name": "Koi",
@@ -4437,7 +4806,8 @@
         "game": "2022",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"koi\""
     },
     {
         "name": "Kulikitaka",
@@ -4449,7 +4819,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"kulikitaka\""
     },
     {
         "name": "Kung Fu Fighting",
@@ -4461,7 +4832,8 @@
         "game": "2",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"kungfufighting\""
     },
     {
         "name": "Lacrimosa",
@@ -4473,7 +4845,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"lacrimosa\""
     },
     {
         "name": "Last Friday Night",
@@ -4485,7 +4858,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 7
+        "sinceVersion": 7,
+        "searchName": "\"lastfridaynight\""
     },
     {
         "name": "Last Night",
@@ -4497,7 +4871,8 @@
         "game": "china_or_smth_idk",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"lastnight\""
     },
     {
         "name": "Le Freak ",
@@ -4509,7 +4884,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"lefreak\""
     },
     {
         "name": "Lean On",
@@ -4521,7 +4897,8 @@
         "game": "2017",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"leanon\""
     },
     {
         "name": "Leave Me Alone",
@@ -4533,7 +4910,8 @@
         "game": "mje",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"leavemealone\""
     },
     {
         "name": "Let It Go (Sing Along)",
@@ -4545,7 +4923,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"letitgosingalong\""
     },
     {
         "name": "Let Me Love You",
@@ -4557,7 +4936,8 @@
         "game": "2017",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"letmeloveyou\""
     },
     {
         "name": "Let’s Groove",
@@ -4569,7 +4949,8 @@
         "game": "2016",
         "amountOfDancers": 3,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"letsgroove\""
     },
     {
         "name": "Level Up",
@@ -4581,7 +4962,8 @@
         "game": "2022",
         "amountOfDancers": 3,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"levelup\""
     },
     {
         "name": "Levitating",
@@ -4593,7 +4975,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"levitating\""
     },
     {
         "name": "Levitating (extreme)",
@@ -4605,7 +4988,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"levitatingextreme\""
     },
     {
         "name": "Lights",
@@ -4617,7 +5001,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 6
+        "sinceVersion": 6,
+        "searchName": "\"lights\""
     },
     {
         "name": "Like Whoa",
@@ -4629,7 +5014,8 @@
         "game": "sendhelp",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"likewhoa\""
     },
     {
         "name": "Limbo",
@@ -4641,7 +5027,8 @@
         "game": "2014",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"limbo\""
     },
     {
         "name": "Little Swing",
@@ -4653,7 +5040,8 @@
         "game": "2017",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"littleswing\""
     },
     {
         "name": "Livin’ La Vida Loca",
@@ -4665,7 +5053,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 4
+        "sinceVersion": 4,
+        "searchName": "\"livinlavidaloca\""
     },
     {
         "name": "Locked Out of Heaven",
@@ -4677,7 +5066,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"lockedoutofheaven\""
     },
     {
         "name": "Lollipop",
@@ -4689,7 +5079,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"lollipop\""
     },
     {
         "name": "Lollipop",
@@ -4701,7 +5092,8 @@
         "game": "other",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"lollipop\""
     },
     {
         "name": "Love Boat",
@@ -4713,7 +5105,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"loveboat\""
     },
     {
         "name": "Love Me Land",
@@ -4725,7 +5118,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"lovemeland\""
     },
     {
         "name": "Love Revolution 21",
@@ -4737,7 +5131,8 @@
         "game": "wii",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"loverevolution21\""
     },
     {
         "name": "Love Story",
@@ -4749,7 +5144,8 @@
         "game": "2022",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"lovestory\""
     },
     {
         "name": "Love Ward",
@@ -4761,7 +5157,8 @@
         "game": "2018",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"loveward\""
     },
     {
         "name": "Love You Like A Love Song",
@@ -4773,7 +5170,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"loveyoulikealovesong\""
     },
     {
         "name": "Love me again",
@@ -4785,7 +5183,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"lovemeagain\""
     },
     {
         "name": "Lovers Again",
@@ -4797,7 +5196,8 @@
         "game": "wii2",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"loversagain\""
     },
     {
         "name": "Lump",
@@ -4809,7 +5209,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"lump\""
     },
     {
         "name": "Lunchbox Friends",
@@ -4821,7 +5222,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"lunchboxfriends\""
     },
     {
         "name": "Lush Life",
@@ -4833,7 +5235,8 @@
         "game": "unlimited",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"lushlife\""
     },
     {
         "name": "MA ITŪ",
@@ -4845,7 +5248,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"maitu\""
     },
     {
         "name": "MI MI MI",
@@ -4857,7 +5261,8 @@
         "game": "2019",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"mimimi\""
     },
     {
         "name": "MONEY",
@@ -4869,7 +5274,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"money\""
     },
     {
         "name": "MONTERO (Call Me By Your Name)",
@@ -4881,7 +5287,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"monterocallmebyyourname\""
     },
     {
         "name": "Macarena",
@@ -4893,7 +5300,8 @@
         "game": "2015",
         "amountOfDancers": 4,
         "difficulty": 1,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"macarena\""
     },
     {
         "name": "Mad Love",
@@ -4905,7 +5313,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"madlove\""
     },
     {
         "name": "Magic",
@@ -4917,7 +5326,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"magic\""
     },
     {
         "name": "Make The Party (Don’t Stop)",
@@ -4929,7 +5339,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"makethepartydontstop\""
     },
     {
         "name": "Make it Jingle",
@@ -4941,7 +5352,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"makeitjingle\""
     },
     {
         "name": "Makeba",
@@ -4953,7 +5365,8 @@
         "game": "2024",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"makeba\""
     },
     {
         "name": "Mambo No. 5",
@@ -4965,7 +5378,8 @@
         "game": "2",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"mambono5\""
     },
     {
         "name": "Maneater",
@@ -4977,7 +5391,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"maneater\""
     },
     {
         "name": "Maniac",
@@ -4989,7 +5404,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"maniac\""
     },
     {
         "name": "Maps",
@@ -5001,7 +5417,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 7
+        "sinceVersion": 7,
+        "searchName": "\"maps\""
     },
     {
         "name": "Maria",
@@ -5013,7 +5430,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"maria\""
     },
     {
         "name": "Mas Que Nada ",
@@ -5025,7 +5443,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"masquenada\""
     },
     {
         "name": "Matsuribayashi de Geragerapō",
@@ -5037,7 +5456,8 @@
         "game": "ykwd",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"matsuribayashidegeragerapo\""
     },
     {
         "name": "Mayores",
@@ -5049,7 +5469,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"mayores\""
     },
     {
         "name": "Me And My Broken Heart",
@@ -5061,7 +5482,8 @@
         "game": "2015",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"meandmybrokenheart\""
     },
     {
         "name": "Mi Gente",
@@ -5073,7 +5495,8 @@
         "game": "2017",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"migente\""
     },
     {
         "name": "Million Dollar Baby",
@@ -5085,7 +5508,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"milliondollarbaby\""
     },
     {
         "name": "Miraculous",
@@ -5097,7 +5521,8 @@
         "game": "+",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"miraculous\""
     },
     {
         "name": "Miss Understood",
@@ -5109,7 +5534,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"missunderstood\""
     },
     {
         "name": "Mister",
@@ -5121,7 +5547,8 @@
         "game": "wii",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"mister\""
     },
     {
         "name": "Mite Mite☆Kotchitchi ",
@@ -5133,7 +5560,8 @@
         "game": "wiiu",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"mitemitekotchitchi\""
     },
     {
         "name": "Miłość w Zakopanem",
@@ -5145,7 +5573,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"miloscwzakopanem\""
     },
     {
         "name": "Money",
@@ -5157,7 +5586,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"money\""
     },
     {
         "name": "Monster",
@@ -5169,7 +5599,8 @@
         "game": "2021",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"monster\""
     },
     {
         "name": "Montero (Call Me By Your Name)",
@@ -5181,7 +5612,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"monterocallmebyyourname\""
     },
     {
         "name": "Mood",
@@ -5193,7 +5625,8 @@
         "game": "2022",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"mood\""
     },
     {
         "name": "More",
@@ -5205,7 +5638,8 @@
         "game": "2023",
         "amountOfDancers": 4,
         "difficulty": "4",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"more\""
     },
     {
         "name": "More (Seraphine Version)",
@@ -5217,7 +5651,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"moreseraphineversion\""
     },
     {
         "name": "Moskau",
@@ -5229,7 +5664,8 @@
         "game": "2014",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"moskau\""
     },
     {
         "name": "Move Your Feet",
@@ -5241,7 +5677,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"moveyourfeet\""
     },
     {
         "name": "Moves Like Jagger",
@@ -5253,7 +5690,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 2
+        "sinceVersion": 2,
+        "searchName": "\"moveslikejagger\""
     },
     {
         "name": "Mr. Blue Sky",
@@ -5265,7 +5703,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"mrbluesky\""
     },
     {
         "name": "Mr. Saxobeat",
@@ -5277,7 +5716,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"mrsaxobeat\""
     },
     {
         "name": "Murder on the Dancefloor",
@@ -5289,7 +5729,8 @@
         "game": "2024",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"murderonthedancefloor\""
     },
     {
         "name": "My New Swag",
@@ -5301,7 +5742,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 4
+        "sinceVersion": 4,
+        "searchName": "\"mynewswag\""
     },
     {
         "name": "Nails, Hair, Hips, Heels",
@@ -5313,7 +5755,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"nailshairhipsheels\""
     },
     {
         "name": "Napal Baji (나팔바지)",
@@ -5325,7 +5768,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 6
+        "sinceVersion": 6,
+        "searchName": "\"napalbajinapalbaji\""
     },
     {
         "name": "Narco",
@@ -5337,7 +5781,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"narco\""
     },
     {
         "name": "Never Gonna Give You Up",
@@ -5349,7 +5794,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 4
+        "sinceVersion": 4,
+        "searchName": "\"nevergonnagiveyouup\""
     },
     {
         "name": "Never be like you",
@@ -5361,7 +5807,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"neverbelikeyou\""
     },
     {
         "name": "New Face",
@@ -5373,7 +5820,8 @@
         "game": "2018",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"newface\""
     },
     {
         "name": "New Rules (Extreme Version)",
@@ -5385,7 +5833,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"newrulesextremeversion\""
     },
     {
         "name": "New World",
@@ -5397,7 +5846,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"newworld\""
     },
     {
         "name": "New World(Extreme)",
@@ -5409,7 +5859,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"newworldextreme\""
     },
     {
         "name": "Ninja Re Bang Bang",
@@ -5421,7 +5872,8 @@
         "game": "wiiu",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"ninjarebangbang\""
     },
     {
         "name": "Nitro Bot",
@@ -5433,7 +5885,8 @@
         "game": "2014",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"nitrobot\""
     },
     {
         "name": "No Control",
@@ -5445,7 +5898,8 @@
         "game": "2016",
         "amountOfDancers": 4,
         "difficulty": 1,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"nocontrol\""
     },
     {
         "name": "No Lie",
@@ -5457,7 +5911,8 @@
         "game": "unlimited",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"nolie\""
     },
     {
         "name": "No Tears Left To Cry",
@@ -5469,7 +5924,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"notearslefttocry\""
     },
     {
         "name": "Numb",
@@ -5481,7 +5937,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"numb\""
     },
     {
         "name": "OMG",
@@ -5493,7 +5950,8 @@
         "game": "2019",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"omg\""
     },
     {
         "name": "OMG (Extreme)",
@@ -5505,7 +5963,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"omgextreme\""
     },
     {
         "name": "Oh No!",
@@ -5517,7 +5976,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"ohno\""
     },
     {
         "name": "Ohla A Explosao",
@@ -5529,7 +5989,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"ohlaaexplosao\""
     },
     {
         "name": "Oishii Oishii",
@@ -5541,7 +6002,8 @@
         "game": "2017",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"oishiioishii\""
     },
     {
         "name": "Old Town Road",
@@ -5553,7 +6015,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"oldtownroad\""
     },
     {
         "name": "On The Floor",
@@ -5565,7 +6028,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"onthefloor\""
     },
     {
         "name": "One Kiss",
@@ -5577,7 +6041,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 7
+        "sinceVersion": 7,
+        "searchName": "\"onekiss\""
     },
     {
         "name": "One Thing",
@@ -5589,7 +6054,8 @@
         "game": "4",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"onething\""
     },
     {
         "name": "Only Girl (In The World)",
@@ -5601,7 +6067,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"onlygirlintheworld\""
     },
     {
         "name": "Otonablue",
@@ -5613,7 +6080,8 @@
         "game": "2024",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"otonablue\""
     },
     {
         "name": "PON PON PON",
@@ -5625,7 +6093,8 @@
         "game": "wii2",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"ponponpon\""
     },
     {
         "name": "POP STAR (カバー)",
@@ -5637,7 +6106,8 @@
         "game": "wii2",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"popstarkaba\""
     },
     {
         "name": "POP/STARS",
@@ -5649,7 +6119,8 @@
         "game": "2022",
         "amountOfDancers": 4,
         "difficulty": 4,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"popstars\""
     },
     {
         "name": "Paca Dance",
@@ -5661,7 +6132,8 @@
         "game": "2021",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"pacadance\""
     },
     {
         "name": "Panini",
@@ -5673,7 +6145,8 @@
         "game": "unlimited",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"panini\""
     },
     {
         "name": "Papaoutai",
@@ -5685,7 +6158,8 @@
         "game": "2015",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"papaoutai\""
     },
     {
         "name": "Papaoutai (African Dance)",
@@ -5697,7 +6171,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"papaoutaiafricandance\""
     },
     {
         "name": "Paparazzi",
@@ -5709,7 +6184,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"paparazzi\""
     },
     {
         "name": "Part of Me",
@@ -5721,7 +6197,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"partofme\""
     },
     {
         "name": "Party Rock Anthem",
@@ -5733,7 +6210,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 6
+        "sinceVersion": 6,
+        "searchName": "\"partyrockanthem\""
     },
     {
         "name": "Pata Pata",
@@ -5745,7 +6223,8 @@
         "game": "3",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"patapata\""
     },
     {
         "name": "Peanut Butter Jelly",
@@ -5757,7 +6236,8 @@
         "game": "2020",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"peanutbutterjelly\""
     },
     {
         "name": "Penguin’s Game",
@@ -5769,7 +6249,8 @@
         "game": "china_or_something_idk",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"penguinsgame\""
     },
     {
         "name": "Pepas",
@@ -5781,7 +6262,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 5
+        "sinceVersion": 5,
+        "searchName": "\"pepas\""
     },
     {
         "name": "Physical",
@@ -5793,7 +6275,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"physical\""
     },
     {
         "name": "Physical (Extreme)",
@@ -5805,7 +6288,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"physicalextreme\""
     },
     {
         "name": "Pink Venom",
@@ -5817,7 +6301,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"pinkvenom\""
     },
     {
         "name": "PoPiPo",
@@ -5829,7 +6314,8 @@
         "game": "2017",
         "amountOfDancers": 3,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"popipo\""
     },
     {
         "name": "Poker Face",
@@ -5841,7 +6327,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"pokerface\""
     },
     {
         "name": "Pon de Replay",
@@ -5853,7 +6340,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"pondereplay\""
     },
     {
         "name": "Poster Girl",
@@ -5865,7 +6353,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"postergirl\""
     },
     {
         "name": "Pound the Alarm",
@@ -5877,7 +6366,8 @@
         "game": "2014",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"poundthealarm\""
     },
     {
         "name": "Price Tag",
@@ -5889,7 +6379,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"pricetag\""
     },
     {
         "name": "Primadonna",
@@ -5901,7 +6392,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"primadonna\""
     },
     {
         "name": "Princess (Wang Fei)",
@@ -5913,7 +6405,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"princesswangfei\""
     },
     {
         "name": "Problem",
@@ -5925,7 +6418,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"problem\""
     },
     {
         "name": "Promiscuous",
@@ -5937,7 +6431,8 @@
         "game": "3",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"promiscuous\""
     },
     {
         "name": "Provenza",
@@ -5949,7 +6444,8 @@
         "game": "2022",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"provenza\""
     },
     {
         "name": "Psycho (Extreme)",
@@ -5961,7 +6457,8 @@
         "game": "2023",
         "amountOfDancers": 3,
         "difficulty": "4",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"psychoextreme\""
     },
     {
         "name": "Psycho (alternate)",
@@ -5973,7 +6470,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"psychoalternate\""
     },
     {
         "name": "Pump It",
@@ -5985,7 +6483,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"pumpit\""
     },
     {
         "name": "Pump Up The Volume",
@@ -5997,7 +6496,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"pumpupthevolume\""
     },
     {
         "name": "Pump Up the Jam",
@@ -6009,7 +6509,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"pumpupthejam\""
     },
     {
         "name": "Rain Over Me",
@@ -6021,7 +6522,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"rainoverme\""
     },
     {
         "name": "Rain Over Me (Extreme Version)",
@@ -6033,7 +6535,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"rainovermeextremeversion\""
     },
     {
         "name": "Rainbow Beats",
@@ -6045,7 +6548,8 @@
         "game": "unlimited",
         "amountOfDancers": 2,
         "difficulty": "3",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"rainbowbeats\""
     },
     {
         "name": "Rapper's Delight",
@@ -6057,7 +6561,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"rappersdelight\""
     },
     {
         "name": "Rare (Fairy Version)",
@@ -6069,7 +6574,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"rarefairyversion\""
     },
     {
         "name": "Rasputin",
@@ -6081,7 +6587,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"rasputin\""
     },
     {
         "name": "Rather Be",
@@ -6093,7 +6600,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "3",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"ratherbe\""
     },
     {
         "name": "Rave in the Grave",
@@ -6105,7 +6613,8 @@
         "game": "2019",
         "amountOfDancers": 4,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"raveinthegrave\""
     },
     {
         "name": "Rhythm of the Night",
@@ -6117,7 +6626,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"rhythmofthenight\""
     },
     {
         "name": "Rich Girl",
@@ -6129,7 +6639,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"richgirl\""
     },
     {
         "name": "Ring My Bell",
@@ -6141,7 +6652,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"ringmybell\""
     },
     {
         "name": "Roar",
@@ -6153,7 +6665,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"roar\""
     },
     {
         "name": "Rock Lobster",
@@ -6165,7 +6678,8 @@
         "game": "4",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"rocklobster\""
     },
     {
         "name": "Rock N Roll",
@@ -6177,7 +6691,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"rocknroll\""
     },
     {
         "name": "Rock With You",
@@ -6189,7 +6704,8 @@
         "game": "mje",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"rockwithyou\""
     },
     {
         "name": "Rock Your Body",
@@ -6201,7 +6717,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"rockyourbody\""
     },
     {
         "name": "Rock n’ Roll (Will Take You to the Mountain)",
@@ -6213,7 +6730,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"rocknrollwilltakeyoutothemountain\""
     },
     {
         "name": "Rockabye",
@@ -6225,7 +6743,8 @@
         "game": "2018",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"rockabye\""
     },
     {
         "name": "Run The Show (Extreme Version)",
@@ -6237,7 +6756,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"runtheshowextremeversion\""
     },
     {
         "name": "Run The World",
@@ -6249,7 +6769,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"runtheworld\""
     },
     {
         "name": "Run the Show",
@@ -6261,7 +6782,8 @@
         "game": "4",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"runtheshow\""
     },
     {
         "name": "Runaway (U & I)",
@@ -6273,7 +6795,8 @@
         "game": "2021",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"runawayu&i\""
     },
     {
         "name": "S.L.U.T",
@@ -6285,7 +6808,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"slut\""
     },
     {
         "name": "S.O.S",
@@ -6297,7 +6821,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"sos\""
     },
     {
         "name": "Sacrifice",
@@ -6309,7 +6834,8 @@
         "game": "+",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"sacrifice\""
     },
     {
         "name": "Safe And Sound",
@@ -6321,7 +6847,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"safeandsound\""
     },
     {
         "name": "Sail",
@@ -6333,7 +6860,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"sail\""
     },
     {
         "name": "Samba de Janeiro",
@@ -6345,7 +6873,8 @@
         "game": "2021",
         "amountOfDancers": 3,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"sambadejaneiro\""
     },
     {
         "name": "Satisfaction",
@@ -6357,7 +6886,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 4
+        "sinceVersion": 4,
+        "searchName": "\"satisfaction\""
     },
     {
         "name": "Save Your Tears (Remix)",
@@ -6369,7 +6899,8 @@
         "game": "2022",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"saveyourtearsremix\""
     },
     {
         "name": "Sax",
@@ -6381,7 +6912,8 @@
         "game": "2018",
         "amountOfDancers": 3,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"sax\""
     },
     {
         "name": "Say My Name (Extreme Version)",
@@ -6393,7 +6925,8 @@
         "game": "2024",
         "amountOfDancers": 3,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"saymynameextremeversion\""
     },
     {
         "name": "Say So",
@@ -6405,7 +6938,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"sayso\""
     },
     {
         "name": "Sayonara",
@@ -6417,7 +6951,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"sayonara\""
     },
     {
         "name": "Scream & Shout (extrreme version)",
@@ -6429,7 +6964,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"scream&shoutextrremeversion\""
     },
     {
         "name": "September",
@@ -6441,7 +6977,8 @@
         "game": "2017",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"september\""
     },
     {
         "name": "Seven",
@@ -6453,7 +6990,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"seven\""
     },
     {
         "name": "Sexy And I Know It",
@@ -6465,7 +7003,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 7
+        "sinceVersion": 7,
+        "searchName": "\"sexyandiknowit\""
     },
     {
         "name": "Señorita",
@@ -6477,7 +7016,8 @@
         "game": "2021",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"senorita\""
     },
     {
         "name": "Shameless",
@@ -6489,7 +7029,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"shameless\""
     },
     {
         "name": "She Looks So Perfect",
@@ -6501,7 +7042,8 @@
         "game": "2015",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"shelookssoperfect\""
     },
     {
         "name": "She Wolf (Falling to pieces)",
@@ -6513,7 +7055,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"shewolffallingtopieces\""
     },
     {
         "name": "Shelter",
@@ -6525,7 +7068,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"shelter\""
     },
     {
         "name": "She’s Got Me Dancing",
@@ -6537,7 +7081,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"shesgotmedancing\""
     },
     {
         "name": "Shoutout to my ex",
@@ -6549,7 +7094,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"shoutouttomyex\""
     },
     {
         "name": "Shut Up and Dance",
@@ -6561,7 +7107,8 @@
         "game": "unlimited",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"shutupanddance\""
     },
     {
         "name": "Side to Side",
@@ -6573,7 +7120,8 @@
         "game": "2018",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"sidetoside\""
     },
     {
         "name": "Single Ladies (Put a Ring on It)",
@@ -6585,7 +7133,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"singleladiesputaringonit\""
     },
     {
         "name": "Sissy That Walk",
@@ -6597,7 +7146,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"sissythatwalk\""
     },
     {
         "name": "Sk8er Boi",
@@ -6609,7 +7159,8 @@
         "game": "2024",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"sk8erboi\""
     },
     {
         "name": "Skibidi",
@@ -6621,7 +7172,8 @@
         "game": "2020",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"skibidi\""
     },
     {
         "name": "SlowMo",
@@ -6633,7 +7185,8 @@
         "game": "2023",
         "amountOfDancers": 3,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"slowmo\""
     },
     {
         "name": "Smalltown Boy",
@@ -6645,7 +7198,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"smalltownboy\""
     },
     {
         "name": "Smooth Criminal",
@@ -6657,7 +7211,8 @@
         "game": "mje",
         "amountOfDancers": 3,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"smoothcriminal\""
     },
     {
         "name": "Snowman",
@@ -6669,7 +7224,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"snowman\""
     },
     {
         "name": "So What",
@@ -6681,7 +7237,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 4
+        "sinceVersion": 4,
+        "searchName": "\"sowhat\""
     },
     {
         "name": "Some Catchin’ Up To Do",
@@ -6693,7 +7250,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"somecatchinuptodo\""
     },
     {
         "name": "Sorry Not Sorry",
@@ -6705,7 +7263,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 7
+        "sinceVersion": 7,
+        "searchName": "\"sorrynotsorry\""
     },
     {
         "name": "Soy Yo",
@@ -6717,7 +7276,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"soyyo\""
     },
     {
         "name": "Space Cat",
@@ -6729,7 +7289,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"spacecat\""
     },
     {
         "name": "Specialist",
@@ -6741,7 +7302,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"specialist\""
     },
     {
         "name": "Spooky Scary Skeletons",
@@ -6753,7 +7315,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"spookyscaryskeletons\""
     },
     {
         "name": "Starships",
@@ -6765,7 +7328,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"starships\""
     },
     {
         "name": "Stay",
@@ -6777,7 +7341,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"stay\""
     },
     {
         "name": "Stay (Don't Go Away)",
@@ -6789,7 +7354,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"staydontgoaway\""
     },
     {
         "name": "Stay (VIP version)",
@@ -6801,7 +7367,8 @@
         "game": "2023",
         "amountOfDancers": 3,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"stayvipversion\""
     },
     {
         "name": "Sticky (fan made by Yeggiz)",
@@ -6813,7 +7380,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"stickyfanmadebyyeggiz\""
     },
     {
         "name": "Stop Movin’",
@@ -6825,7 +7393,8 @@
         "game": "2020",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"stopmovin\""
     },
     {
         "name": "Streetwalker",
@@ -6837,7 +7406,8 @@
         "game": "mje",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"streetwalker\""
     },
     {
         "name": "Stronger (What Doesn’t Kill You)",
@@ -6849,7 +7419,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"strongerwhatdoesntkillyou\""
     },
     {
         "name": "Stuck on a Feeling",
@@ -6861,7 +7432,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"stuckonafeeling\""
     },
     {
         "name": "Stupid Love",
@@ -6873,7 +7445,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"stupidlove\""
     },
     {
         "name": "Sua Cara",
@@ -6885,7 +7458,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"suacara\""
     },
     {
         "name": "Sucker",
@@ -6897,7 +7471,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 6
+        "sinceVersion": 6,
+        "searchName": "\"sucker\""
     },
     {
         "name": "Sugar",
@@ -6909,7 +7484,8 @@
         "game": "2019",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"sugar\""
     },
     {
         "name": "Summer",
@@ -6921,7 +7497,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"summer\""
     },
     {
         "name": "Summer (Fitness Version)",
@@ -6933,7 +7510,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"summerfitnessversion\""
     },
     {
         "name": "Sunroof",
@@ -6945,7 +7523,8 @@
         "game": "+",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"sunroof\""
     },
     {
         "name": "Sunset Driver",
@@ -6957,7 +7536,8 @@
         "game": "mje",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"sunsetdriver\""
     },
     {
         "name": "Super Bass",
@@ -6969,7 +7549,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"superbass\""
     },
     {
         "name": "Superhero",
@@ -6981,7 +7562,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"superhero\""
     },
     {
         "name": "Surfin’ Bird",
@@ -6993,7 +7575,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"surfinbird\""
     },
     {
         "name": "Sushi",
@@ -7005,7 +7588,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"sushi\""
     },
     {
         "name": "Sushi (extreme version)",
@@ -7017,7 +7601,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"sushiextremeversion\""
     },
     {
         "name": "Swalla (Fanmade)",
@@ -7029,7 +7614,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"swallafanmade\""
     },
     {
         "name": "Swalla (fanmade)",
@@ -7041,7 +7627,8 @@
         "game": "fanmade",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"swallafanmade\""
     },
     {
         "name": "Sweet But Psycho",
@@ -7053,7 +7640,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"sweetbutpsycho\""
     },
     {
         "name": "Sweet But Psycho (fanmade)",
@@ -7065,7 +7653,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 5
+        "sinceVersion": 5,
+        "searchName": "\"sweetbutpsychofanmade\""
     },
     {
         "name": "Sweet Sensation",
@@ -7077,7 +7666,8 @@
         "game": "2019",
         "amountOfDancers": 4,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"sweetsensation\""
     },
     {
         "name": "Swish Swish",
@@ -7089,7 +7679,8 @@
         "game": "2018",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"swishswish\""
     },
     {
         "name": "Swish Swish (World cup vers. Extreme)",
@@ -7101,7 +7692,8 @@
         "game": "2018",
         "amountOfDancers": 2,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"swishswishworldcupversextreme\""
     },
     {
         "name": "Take On Me",
@@ -7113,7 +7705,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"takeonme\""
     },
     {
         "name": "Taki Taki",
@@ -7125,7 +7718,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"takitaki\""
     },
     {
         "name": "Taki Taki",
@@ -7137,7 +7731,8 @@
         "game": "fanmade",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"takitaki\""
     },
     {
         "name": "Talk",
@@ -7149,7 +7744,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"talk\""
     },
     {
         "name": "Talk (Extreme)",
@@ -7161,7 +7757,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"talkextreme\""
     },
     {
         "name": "Teacher (car version)",
@@ -7173,7 +7770,8 @@
         "game": "2016",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"teachercarversion\""
     },
     {
         "name": "Tel Aviv",
@@ -7185,7 +7783,8 @@
         "game": "2020",
         "amountOfDancers": 3,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"telaviv\""
     },
     {
         "name": "Telephone",
@@ -7197,7 +7796,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"telephone\""
     },
     {
         "name": "Tell Your World",
@@ -7209,7 +7809,8 @@
         "game": "wiiu",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"tellyourworld\""
     },
     {
         "name": "Temperature (Extreme)",
@@ -7221,7 +7822,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"temperatureextreme\""
     },
     {
         "name": "Thank you, Next",
@@ -7233,7 +7835,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"thankyounext\""
     },
     {
         "name": "That’s Not My Name",
@@ -7245,7 +7848,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"thatsnotmyname\""
     },
     {
         "name": "The Final Countdown",
@@ -7257,7 +7861,8 @@
         "game": "4",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"thefinalcountdown\""
     },
     {
         "name": "The Other Side",
@@ -7269,7 +7874,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"theotherside\""
     },
     {
         "name": "The Other Side",
@@ -7281,7 +7887,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"theotherside\""
     },
     {
         "name": "The Time (Dirty Bit) (extreme)",
@@ -7293,7 +7900,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"thetimedirtybitextreme\""
     },
     {
         "name": "The Way",
@@ -7305,7 +7913,8 @@
         "game": "2014",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"theway\""
     },
     {
         "name": "The Way I Are",
@@ -7317,7 +7926,8 @@
         "game": "unlimited",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"thewayiare\""
     },
     {
         "name": "The Way I Are",
@@ -7329,7 +7939,8 @@
         "game": "2018",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"thewayiare\""
     },
     {
         "name": "The Weekend",
@@ -7341,7 +7952,8 @@
         "game": "2021",
         "amountOfDancers": 2,
         "difficulty": 3,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"theweekend\""
     },
     {
         "name": "Therefore I Am ",
@@ -7353,7 +7965,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"thereforeiam\""
     },
     {
         "name": "Think About Things",
@@ -7365,7 +7978,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"thinkaboutthings\""
     },
     {
         "name": "This Is How We Do (Aerobics Version)",
@@ -7377,7 +7991,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"thisishowwedoaerobicsversion\""
     },
     {
         "name": "Thriller",
@@ -7389,7 +8004,8 @@
         "game": "mje",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"thriller\""
     },
     {
         "name": "Thunderous",
@@ -7401,7 +8017,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"thunderous\""
     },
     {
         "name": "TiK ToK",
@@ -7413,7 +8030,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 4
+        "sinceVersion": 4,
+        "searchName": "\"tiktok\""
     },
     {
         "name": "Tightrope",
@@ -7425,7 +8043,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"tightrope\""
     },
     {
         "name": "Till I Find You",
@@ -7437,7 +8056,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"tillifindyou\""
     },
     {
         "name": "Timber",
@@ -7449,7 +8069,8 @@
         "game": "2014",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"timber\""
     },
     {
         "name": "Time Warp",
@@ -7461,7 +8082,8 @@
         "game": "4",
         "amountOfDancers": 4,
         "difficulty": 1,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"timewarp\""
     },
     {
         "name": "Titanium",
@@ -7473,7 +8095,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"titanium\""
     },
     {
         "name": "Tití Me Preguntó",
@@ -7485,7 +8108,8 @@
         "game": "2024",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"titimepregunto\""
     },
     {
         "name": "Todo De Ti",
@@ -7497,7 +8121,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"tododeti\""
     },
     {
         "name": "Todo de Ti",
@@ -7509,7 +8134,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"tododeti\""
     },
     {
         "name": "Toxic (extreme)",
@@ -7521,7 +8147,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"toxicextreme\""
     },
     {
         "name": "Toxic (jd2 version)",
@@ -7533,7 +8160,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 3
+        "sinceVersion": 3,
+        "searchName": "\"toxicjd2version\""
     },
     {
         "name": "Toxic (jd2023 version)",
@@ -7545,7 +8173,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"toxicjd2023version\""
     },
     {
         "name": "Toy",
@@ -7557,7 +8186,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"toy\""
     },
     {
         "name": "Treasure",
@@ -7569,7 +8199,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"treasure\""
     },
     {
         "name": "Trenuletul",
@@ -7581,7 +8212,8 @@
         "game": "2023",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"trenuletul\""
     },
     {
         "name": "Troublemaker",
@@ -7593,7 +8225,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"troublemaker\""
     },
     {
         "name": "Tsukematsukeru (つけまつける)",
@@ -7605,7 +8238,8 @@
         "game": "wiiu",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"tsukematsukerutsukematsukeru\""
     },
     {
         "name": "Turn Me On",
@@ -7617,7 +8251,8 @@
         "game": "dc2",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"turnmeon\""
     },
     {
         "name": "Turn Up the Love",
@@ -7629,7 +8264,8 @@
         "game": "2023",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"turnupthelove\""
     },
     {
         "name": "Twerk",
@@ -7641,7 +8277,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"twerk\""
     },
     {
         "name": "U Can’t Touch This",
@@ -7653,7 +8290,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"ucanttouchthis\""
     },
     {
         "name": "U.S.A.",
@@ -7665,7 +8303,8 @@
         "game": "2021",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"usa\""
     },
     {
         "name": "Ubu Love",
@@ -7677,7 +8316,8 @@
         "game": "2023",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"ubulove\""
     },
     {
         "name": "Uchū Dance!",
@@ -7689,7 +8329,8 @@
         "game": "ykwd",
         "amountOfDancers": 4,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"uchudance\""
     },
     {
         "name": "Umbrella",
@@ -7701,7 +8342,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 6
+        "sinceVersion": 6,
+        "searchName": "\"umbrella\""
     },
     {
         "name": "Un Poco Loco",
@@ -7713,7 +8355,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"unpocoloco\""
     },
     {
         "name": "Uno",
@@ -7725,7 +8368,8 @@
         "game": "2021",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"uno\""
     },
     {
         "name": "Uptown Funk",
@@ -7737,7 +8381,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"uptownfunk\""
     },
     {
         "name": "Vampire",
@@ -7749,7 +8394,8 @@
         "game": "2024",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"vampire\""
     },
     {
         "name": "Video Killed the Radio Star",
@@ -7761,7 +8407,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"videokilledtheradiostar\""
     },
     {
         "name": "Viva Las Vegas",
@@ -7773,7 +8420,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"vivalasvegas\""
     },
     {
         "name": "Vodovorot",
@@ -7785,7 +8433,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 6
+        "sinceVersion": 6,
+        "searchName": "\"vodovorot\""
     },
     {
         "name": "WANNABE (Alternate)",
@@ -7797,7 +8446,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"wannabealternate\""
     },
     {
         "name": "Waka Waka (This Time for Africa) (Football Version) ",
@@ -7809,7 +8459,8 @@
         "game": "2018",
         "amountOfDancers": 4,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"wakawakathistimeforafricafootballversion\""
     },
     {
         "name": "Wake Me Up",
@@ -7821,7 +8472,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"wakemeup\""
     },
     {
         "name": "Walk Like an Egyptian",
@@ -7833,7 +8485,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"walklikeanegyptian\""
     },
     {
         "name": "Walk This Way (Extreme)",
@@ -7845,7 +8498,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"walkthiswayextreme\""
     },
     {
         "name": "Walking on Sunshine",
@@ -7857,7 +8511,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"walkingonsunshine\""
     },
     {
         "name": "Wanna be",
@@ -7869,7 +8524,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"wannabe\""
     },
     {
         "name": "Wannabe (extreme)",
@@ -7881,7 +8537,8 @@
         "game": "2023",
         "amountOfDancers": 3,
         "difficulty": 4,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"wannabeextreme\""
     },
     {
         "name": "Want to Want Me",
@@ -7893,7 +8550,8 @@
         "game": "2016",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"wanttowantme\""
     },
     {
         "name": "Wasabi (Extreme)",
@@ -7905,7 +8563,8 @@
         "game": "2024",
         "amountOfDancers": 2,
         "difficulty": 4,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"wasabiextreme\""
     },
     {
         "name": "Watch Me (Whip/Nae Nae)",
@@ -7917,7 +8576,8 @@
         "game": "2017",
         "amountOfDancers": 4,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"watchmewhipnaenae\""
     },
     {
         "name": "Watch Out for This (Bumaye)",
@@ -7929,7 +8589,8 @@
         "game": "2023",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"watchoutforthisbumaye\""
     },
     {
         "name": "We Don't Talk About Bruno",
@@ -7941,7 +8602,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"wedonttalkaboutbruno\""
     },
     {
         "name": "We No Speak Americano (Extreme Version)",
@@ -7953,7 +8615,8 @@
         "game": "fanmade",
         "amountOfDancers": 2,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"wenospeakamericanoextremeversion\""
     },
     {
         "name": "We R Who We R",
@@ -7965,7 +8628,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"werwhower\""
     },
     {
         "name": "We speak no americano",
@@ -7977,7 +8641,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"wespeaknoamericano\""
     },
     {
         "name": "What About Love",
@@ -7989,7 +8654,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"whataboutlove\""
     },
     {
         "name": "What Does The Fox Say?",
@@ -8001,7 +8667,8 @@
         "game": "2015",
         "amountOfDancers": 3,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"whatdoesthefoxsay?\""
     },
     {
         "name": "What Is Love",
@@ -8013,7 +8680,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"whatislove\""
     },
     {
         "name": "What Is Love (Car Version)",
@@ -8025,7 +8693,8 @@
         "game": "2017",
         "amountOfDancers": 2,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"whatislovecarversion\""
     },
     {
         "name": "What Makes You Beautiful",
@@ -8037,7 +8706,8 @@
         "game": "4",
         "amountOfDancers": 4,
         "difficulty": 1,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"whatmakesyoubeautiful\""
     },
     {
         "name": "What Makes You Beautiful (Extreme Version)",
@@ -8049,7 +8719,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"whatmakesyoubeautifulextremeversion\""
     },
     {
         "name": "What You Waiting For",
@@ -8061,7 +8732,8 @@
         "game": "3",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 7
+        "sinceVersion": 7,
+        "searchName": "\"whatyouwaitingfor\""
     },
     {
         "name": "When I Grow Up",
@@ -8073,7 +8745,8 @@
         "game": "2",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"whenigrowup\""
     },
     {
         "name": "Where Have You Been",
@@ -8085,7 +8758,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"wherehaveyoubeen\""
     },
     {
         "name": "Where Have You Been (Extreme)",
@@ -8097,7 +8771,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"wherehaveyoubeenextreme\""
     },
     {
         "name": "Whine Up",
@@ -8109,7 +8784,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"whineup\""
     },
     {
         "name": "Whip My Hair",
@@ -8121,7 +8797,8 @@
         "game": "other",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"whipmyhair\""
     },
     {
         "name": "White Noise",
@@ -8133,7 +8810,8 @@
         "game": "2020",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"whitenoise\""
     },
     {
         "name": "Whitney",
@@ -8145,7 +8823,8 @@
         "game": "2024",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"whitney\""
     },
     {
         "name": "Who Let the Smurfs Out?",
@@ -8157,7 +8836,8 @@
         "game": "sendhelp",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"wholetthesmurfsout?\""
     },
     {
         "name": "Wild",
@@ -8169,7 +8849,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"wild\""
     },
     {
         "name": "Wild Wild West",
@@ -8181,7 +8862,8 @@
         "game": "4",
         "amountOfDancers": 4,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"wildwildwest\""
     },
     {
         "name": "Wild Wild West (Extreme)",
@@ -8193,7 +8875,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": "4",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"wildwildwestextreme\""
     },
     {
         "name": "Witch",
@@ -8205,7 +8888,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"witch\""
     },
     {
         "name": "Without Me",
@@ -8217,7 +8901,8 @@
         "game": "2021",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"withoutme\""
     },
     {
         "name": "Without Me (Extreme)",
@@ -8229,7 +8914,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"withoutmeextreme\""
     },
     {
         "name": "Wolves",
@@ -8241,7 +8927,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 7
+        "sinceVersion": 7,
+        "searchName": "\"wolves\""
     },
     {
         "name": "Woman",
@@ -8253,7 +8940,8 @@
         "game": "2023",
         "amountOfDancers": 4,
         "difficulty": 2,
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"woman\""
     },
     {
         "name": "Woman (All-Mother Version)",
@@ -8265,7 +8953,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"womanall-motherversion\""
     },
     {
         "name": "Woman (VIP VERSION)",
@@ -8277,7 +8966,8 @@
         "game": "2023",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"womanvipversion\""
     },
     {
         "name": "Womanizer",
@@ -8289,7 +8979,8 @@
         "game": "1",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 8
+        "sinceVersion": 8,
+        "searchName": "\"womanizer\""
     },
     {
         "name": "Won't Be Long",
@@ -8301,7 +8992,8 @@
         "game": "wii",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 10
+        "sinceVersion": 10,
+        "searchName": "\"wontbelong\""
     },
     {
         "name": "Work Bitch (Extreme)",
@@ -8313,7 +9005,8 @@
         "game": "2019",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"workbitchextreme\""
     },
     {
         "name": "Worth It",
@@ -8325,7 +9018,8 @@
         "game": "2017",
         "amountOfDancers": 1,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"worthit\""
     },
     {
         "name": "Worth It (Fanmade)",
@@ -8337,7 +9031,8 @@
         "game": "fanmade",
         "amountOfDancers": 1,
         "difficulty": "2",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"worthitfanmade\""
     },
     {
         "name": "Wouldn’t It Be Nice",
@@ -8349,7 +9044,8 @@
         "game": "2023",
         "amountOfDancers": 2,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"wouldntitbenice\""
     },
     {
         "name": "Y.M.C.A",
@@ -8361,7 +9057,8 @@
         "game": "2014",
         "amountOfDancers": 4,
         "difficulty": 1,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"ymca\""
     },
     {
         "name": "Yameen Yasar",
@@ -8373,7 +9070,8 @@
         "game": "2021",
         "amountOfDancers": 3,
         "difficulty": 3,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"yameenyasar\""
     },
     {
         "name": "Yo-kai Taiso Dai-Ichi",
@@ -8385,7 +9083,8 @@
         "game": "ykwd",
         "amountOfDancers": 2,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"yo-kaitaisodai-ichi\""
     },
     {
         "name": "You Can Dance",
@@ -8397,7 +9096,8 @@
         "game": "2022",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"youcandance\""
     },
     {
         "name": "You Don’t Know Me",
@@ -8409,7 +9109,8 @@
         "game": "unlimited",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"youdontknowme\""
     },
     {
         "name": "You Make Me Feel...",
@@ -8421,7 +9122,8 @@
         "game": "4",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"youmakemefeel\""
     },
     {
         "name": "You Spin me Round (Like a Record)",
@@ -8433,7 +9135,8 @@
         "game": "2015",
         "amountOfDancers": 1,
         "difficulty": 2,
-        "sinceVersion": 0
+        "sinceVersion": 0,
+        "searchName": "\"youspinmeroundlikearecord\""
     },
     {
         "name": "You’ve Got a Friend In Me",
@@ -8445,7 +9148,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"youvegotafriendinme\""
     },
     {
         "name": "Zenit",
@@ -8457,7 +9161,8 @@
         "game": "2021",
         "amountOfDancers": 1,
         "difficulty": 1,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"zenit\""
     },
     {
         "name": "Zero To Hero",
@@ -8469,7 +9174,8 @@
         "game": "2024",
         "amountOfDancers": 3,
         "difficulty": 2,
-        "sinceVersion": 12
+        "sinceVersion": 12,
+        "searchName": "\"zerotohero\""
     },
     {
         "name": "abc",
@@ -8481,7 +9187,8 @@
         "game": "kids",
         "amountOfDancers": 1,
         "difficulty": "1",
-        "sinceVersion": 11
+        "sinceVersion": 11,
+        "searchName": "\"abc\""
     },
     {
         "name": "thatPOWER (Extreme Version)",
@@ -8493,7 +9200,8 @@
         "game": "2014",
         "amountOfDancers": 1,
         "difficulty": 4,
-        "sinceVersion": 1
+        "sinceVersion": 1,
+        "searchName": "\"thatpowerextremeversion\""
     },
     {
         "name": "Échame La Culpa",
@@ -8505,6 +9213,7 @@
         "game": "fanmade",
         "amountOfDancers": 2,
         "difficulty": 2,
-        "sinceVersion": 9
+        "sinceVersion": 9,
+        "searchName": "\"echamelaculpa\""
     }
 ]
