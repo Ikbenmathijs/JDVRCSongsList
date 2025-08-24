@@ -560,6 +560,20 @@
         "searchArtist": "billieeilish"
     },
     {
+        "name": "Alone",
+        "artist": "Marshmello",
+        "duration": "3:29",
+        "url": "https://youtu.be/xzTl4hQtkM0?si=OrA-7z5EMqFII9b_",
+        "original_url": null,
+        "image": "alone",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "alone",
+        "searchArtist": "marshmello"
+    },
+    {
         "name": "Am I Wrong",
         "artist": "Nico & Vinz",
         "duration": "3:18",
@@ -1890,6 +1904,20 @@
         "searchArtist": "evanescence"
     },
     {
+        "name": "Brutal",
+        "artist": "Olivia Rodrigo",
+        "duration": "2:53",
+        "url": "https://youtu.be/TCuumVozTh4",
+        "original_url": null,
+        "image": "brutal",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 13,
+        "searchName": "brutal",
+        "searchArtist": "oliviarodrigo"
+    },
+    {
         "name": "Build A Bitch",
         "artist": "Bella Porch",
         "duration": "2:00",
@@ -2898,6 +2926,20 @@
         "searchArtist": "bts"
     },
     {
+        "name": "DUN DUN",
+        "artist": "EVERGLOW",
+        "duration": "3:14",
+        "url": "https://youtu.be/-77MHGXYRlE",
+        "original_url": null,
+        "image": "dun_dun",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 4,
+        "sinceVersion": 13,
+        "searchName": "dundun",
+        "searchArtist": "everglow"
+    },
+    {
         "name": "Daddy",
         "artist": "PSY",
         "duration": "3:40",
@@ -3246,6 +3288,20 @@
         "sinceVersion": 13,
         "searchName": "despacito",
         "searchArtist": "luisfonsiftdaddyyankee"
+    },
+    {
+        "name": "Detention",
+        "artist": "Melanie Martinez",
+        "duration": "4:30",
+        "url": "https://youtu.be/dkh8CvHazwc?si=E3I-bYxOmsWTWfl-",
+        "original_url": null,
+        "image": "detention",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 13,
+        "searchName": "detention",
+        "searchArtist": "melaniemartinez"
     },
     {
         "name": "Diamonds",
@@ -7392,6 +7448,20 @@
         "searchArtist": "pinocchiop"
     },
     {
+        "name": "Make Me Feel",
+        "artist": "Janelle Monae",
+        "duration": "3:57",
+        "url": "https://youtu.be/EZ527GYB4M4",
+        "original_url": null,
+        "image": "make_me_feel",
+        "game": "2019",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "makemefeel",
+        "searchArtist": "janellemonae"
+    },
+    {
         "name": "Make The Party (Don’t Stop)",
         "artist": "Bunny Beatz ft. Liquid",
         "duration": "3:21",
@@ -8078,6 +8148,20 @@
         "searchArtist": "psy"
     },
     {
+        "name": "New Rules",
+        "artist": "Dua Lipa",
+        "duration": "4:10",
+        "url": "https://youtu.be/MF0WoBAjrTI",
+        "original_url": null,
+        "image": "new_rules",
+        "game": "2019",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "newrules",
+        "searchArtist": "dualipa"
+    },
+    {
         "name": "New Rules (Extreme Version)",
         "artist": "Dua Lipa",
         "duration": "3:25",
@@ -8118,6 +8202,20 @@
         "sinceVersion": 12,
         "searchName": "newworldextreme",
         "searchArtist": "vavakrewellayellowclaw"
+    },
+    {
+        "name": "Nice For What",
+        "artist": "Drake",
+        "duration": "4:03",
+        "url": "https://youtu.be/pojqZZHxyeY",
+        "original_url": null,
+        "image": "nice_for_what",
+        "game": "2019",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "niceforwhat",
+        "searchArtist": "drake"
     },
     {
         "name": "Ninja Re Bang Bang",
@@ -8680,6 +8778,20 @@
         "searchArtist": "mileycyrus"
     },
     {
+        "name": "Party in the U.S.A. (Night Parade Version)",
+        "artist": "Miley Cyrus ",
+        "duration": "3:55",
+        "url": "https://youtu.be/P8i6HutgsVY",
+        "original_url": null,
+        "image": "party_in_the_usa_night_parade_version",
+        "game": "2025",
+        "amountOfDancers": 2,
+        "difficulty": 3,
+        "sinceVersion": 13,
+        "searchName": "partyintheusanightparadeversion",
+        "searchArtist": "mileycyrus"
+    },
+    {
         "name": "Pata Pata",
         "artist": "Miriam Makeba",
         "duration": "3:20",
@@ -9139,6 +9251,20 @@
         "difficulty": 2,
         "sinceVersion": 13,
         "searchName": "rabiosa",
+        "searchArtist": "shakiraftelcata"
+    },
+    {
+        "name": "Rabiosa (Latin Fitness version)",
+        "artist": "Shakira Ft. El Cata",
+        "duration": "2:51",
+        "url": "https://youtu.be/CBUtzn7IptQ",
+        "original_url": null,
+        "image": "rabiosa_latin_fitness_version",
+        "game": "2016",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "rabiosalatinfitnessversion",
         "searchArtist": "shakiraftelcata"
     },
     {
@@ -12206,6 +12332,20 @@
         "sinceVersion": 13,
         "searchName": "whenwestandtogether",
         "searchArtist": "nickelback"
+    },
+    {
+        "name": "Whenever, Wherever",
+        "artist": "Shakira",
+        "duration": "3:47",
+        "url": "https://youtu.be/J4VpAryidqI",
+        "original_url": null,
+        "image": "whenever_wherever",
+        "game": "2025",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "wheneverwherever",
+        "searchArtist": "shakira"
     },
     {
         "name": "Where Have You Been",
