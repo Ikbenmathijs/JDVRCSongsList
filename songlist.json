@@ -308,6 +308,34 @@
         "searchArtist": "gloriagroove"
     },
     {
+        "name": "APPLE - Alternate (Trending Version)",
+        "artist": "Charli XCX)",
+        "duration": "2:33",
+        "url": "https://youtu.be/HVDyu9UZYGU",
+        "original_url": null,
+        "image": "apple___alternate_trending_version",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "apple-alternatetrendingversion",
+        "searchArtist": "charlixcx"
+    },
+    {
+        "name": "APT (Graffiti Version)",
+        "artist": "ROSÉ & Bruno Mars",
+        "duration": "2:47",
+        "url": "https://youtu.be/_ViBsxz6Dtg",
+        "original_url": null,
+        "image": "apt_graffiti_version",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 13,
+        "searchName": "aptgraffitiversion",
+        "searchArtist": "rose&brunomars"
+    },
+    {
         "name": "APT. ",
         "artist": "ROSE & Bruno Mars",
         "duration": "3:25",
@@ -320,6 +348,20 @@
         "sinceVersion": 13,
         "searchName": "apt",
         "searchArtist": "rose&brunomars"
+    },
+    {
+        "name": "Abracadabra",
+        "artist": "Lady Gaga",
+        "duration": "4:29",
+        "url": "https://youtu.be/rw_j5sbGj8Y",
+        "original_url": null,
+        "image": "abracadabra",
+        "game": "other",
+        "amountOfDancers": 2,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "abracadabra",
+        "searchArtist": "ladygaga"
     },
     {
         "name": "Addicted To You",
@@ -448,6 +490,20 @@
         "searchArtist": "bobfthayleywilliams"
     },
     {
+        "name": "Airplanes",
+        "artist": "B.o.B ft. Hayley Williams",
+        "duration": "2:40",
+        "url": "https://youtu.be/M07l0hcaJQU?si=ARTseGb05jaRUfPb",
+        "original_url": null,
+        "image": "airplanes_0tn2ptAN",
+        "game": "dc3",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "airplanes",
+        "searchArtist": "bobfthayleywilliams"
+    },
+    {
         "name": "Alexandrie Alexandra",
         "artist": "Claude François",
         "duration": "3:50",
@@ -500,6 +556,20 @@
         "amountOfDancers": 1,
         "difficulty": 1,
         "sinceVersion": 0,
+        "searchName": "alliwantforchristmasisyou",
+        "searchArtist": "mariahcarey"
+    },
+    {
+        "name": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "duration": "3:50",
+        "url": "https://youtu.be/_yvDcaOI39M",
+        "original_url": null,
+        "image": "all_i_want_for_christmas_is_you",
+        "game": "2014",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
         "searchName": "alliwantforchristmasisyou",
         "searchArtist": "mariahcarey"
     },
@@ -700,6 +770,20 @@
         "searchArtist": "blackyfeatrisayuzuki"
     },
     {
+        "name": "Anxiety",
+        "artist": "Doechii",
+        "duration": "4:52",
+        "url": "https://youtu.be/3IgtYMAyytY",
+        "original_url": null,
+        "image": "anxiety",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "anxiety",
+        "searchArtist": "doechii"
+    },
+    {
         "name": "Anything I Do",
         "artist": "CLiQ ft. Ms Banks and Alika",
         "duration": "2:45",
@@ -840,6 +924,20 @@
         "searchArtist": "jamiroquai"
     },
     {
+        "name": "Azizam",
+        "artist": "Ed Sheeran",
+        "duration": "3:13",
+        "url": "https://youtu.be/7QPnvb4uGpQ?si=Io3h7B-cnp7AX5Kl",
+        "original_url": null,
+        "image": "azizam",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "azizam",
+        "searchArtist": "edsheeran"
+    },
+    {
         "name": "BAAM",
         "artist": "MOMOLAND",
         "duration": "3:34",
@@ -936,6 +1034,20 @@
         "sinceVersion": 13,
         "searchName": "babyshark",
         "searchArtist": "pinkfong"
+    },
+    {
+        "name": "Bad",
+        "artist": "Michael Jackson",
+        "duration": "4:46",
+        "url": "https://youtu.be/KKNFQGBO8xU",
+        "original_url": null,
+        "image": "bad",
+        "game": "mje",
+        "amountOfDancers": 3,
+        "difficulty": 3,
+        "sinceVersion": 13,
+        "searchName": "bad",
+        "searchArtist": "michaeljackson"
     },
     {
         "name": "Bad Apple!! feat.nomico",
@@ -1218,6 +1330,20 @@
         "searchArtist": "ducksauce"
     },
     {
+        "name": "Bass Down Low",
+        "artist": "DEV ft. The Cataracs",
+        "duration": "2:30",
+        "url": "https://youtu.be/V8SK_ilnZGw?si=mpUsO1TZb9oAED0u",
+        "original_url": null,
+        "image": "bass_down_low",
+        "game": "dc3",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 13,
+        "searchName": "bassdownlow",
+        "searchArtist": "devftthecataracs"
+    },
+    {
         "name": "Bassa Sababa",
         "artist": "Netta",
         "duration": "2:58",
@@ -1284,6 +1410,20 @@
         "amountOfDancers": 1,
         "difficulty": 3,
         "sinceVersion": 9,
+        "searchName": "beautyandabeat",
+        "searchArtist": "justinbieberftnickiminaj"
+    },
+    {
+        "name": "Beauty and a Beat",
+        "artist": "Justin Bieber ft Nicki Minaj",
+        "duration": "2:45",
+        "url": "https://youtu.be/gKaqxhGc3Go?si=Rxxoj5kOg5mbTuFr",
+        "original_url": null,
+        "image": "beauty_and_a_beat_YlbvqD2H",
+        "game": "dc3",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 13,
         "searchName": "beautyandabeat",
         "searchArtist": "justinbieberftnickiminaj"
     },
@@ -1356,6 +1496,20 @@
         "sinceVersion": 12,
         "searchName": "bewareoftheboys",
         "searchArtist": "panjabimc"
+    },
+    {
+        "name": "Big Bad Frog",
+        "artist": "Austin &Colin",
+        "duration": "3:12",
+        "url": "https://www.youtube.com/watch?v=5Dmkl_oF24Y",
+        "original_url": null,
+        "image": "big_bad_frog",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "bigbadfrog",
+        "searchArtist": "austin&colin"
     },
     {
         "name": "Billie",
@@ -1524,6 +1678,20 @@
         "sinceVersion": 13,
         "searchName": "blindinglightsextreme",
         "searchArtist": "theweeknd"
+    },
+    {
+        "name": "Bling-Bang-Bang-Born (fanmade by StarLuke04)",
+        "artist": "Creepy Nuts",
+        "duration": "2:53",
+        "url": "https://youtu.be/uweBw3StOng",
+        "original_url": null,
+        "image": "bling_bang_bang_born_fanmade_by_starluke04",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 13,
+        "searchName": "bling-bang-bang-bornfanmadebystarluke04",
+        "searchArtist": "creepynuts"
     },
     {
         "name": "Bloody Mary",
@@ -1748,6 +1916,20 @@
         "sinceVersion": 11,
         "searchName": "bornthiswaynerdversion",
         "searchArtist": "ladygaga"
+    },
+    {
+        "name": "Born To Be Alive (Reborn Version) - Aerobics Version ",
+        "artist": " Patrick Hernandez",
+        "duration": "4:04",
+        "url": "https://youtu.be/5o8FhFUhrC4",
+        "original_url": null,
+        "image": "born_to_be_alive_reborn_version___aerobics_version",
+        "game": "other",
+        "amountOfDancers": 2,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "borntobealiverebornversion-aerobicsversion",
+        "searchArtist": "patrickhernandez"
     },
     {
         "name": "Born To Be Wild",
@@ -2506,6 +2688,34 @@
         "searchArtist": "siaftseanpaul"
     },
     {
+        "name": "Check",
+        "artist": "BBNO$",
+        "duration": "2:00",
+        "url": "https://youtu.be/wC7BFI32rSo",
+        "original_url": null,
+        "image": "check",
+        "game": "fanmade",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "check",
+        "searchArtist": "bbno$"
+    },
+    {
+        "name": "Chichika",
+        "artist": "MariaDennis ft. METAMAMI",
+        "duration": "2:50",
+        "url": "https://youtu.be/kF62SExLSyY?si=2LxPBChMU6evJv5C",
+        "original_url": null,
+        "image": "chichika",
+        "game": "other",
+        "amountOfDancers": 2,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "chichika",
+        "searchArtist": "mariadennisftmetamami"
+    },
+    {
         "name": "China",
         "artist": "Anuel AA, Daddy Yankee, Karol G, Ozuna, & J Balvin",
         "duration": "4:54",
@@ -2758,6 +2968,20 @@
         "searchArtist": "onerepublic"
     },
     {
+        "name": "Counting Stars",
+        "artist": "OneRepublic",
+        "duration": "4:33",
+        "url": "https://youtu.be/H1G0AGuW538",
+        "original_url": null,
+        "image": "counting_stars_0Ak3awRu",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "countingstars",
+        "searchArtist": "onerepublic"
+    },
+    {
         "name": "Cradles",
         "artist": "Suburban",
         "duration": "3:30",
@@ -2826,6 +3050,20 @@
         "sinceVersion": 9,
         "searchName": "crucified",
         "searchArtist": "armyoflovers"
+    },
+    {
+        "name": "Cry Baby",
+        "artist": "Melanie Martinez",
+        "duration": "4:29",
+        "url": "https://youtu.be/CGqW9S6RHlo",
+        "original_url": null,
+        "image": "cry_baby",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 13,
+        "searchName": "crybaby",
+        "searchArtist": "melaniemartinez"
     },
     {
         "name": "Crying Blood",
@@ -2924,6 +3162,20 @@
         "sinceVersion": 12,
         "searchName": "dna",
         "searchArtist": "bts"
+    },
+    {
+        "name": "DRIP",
+        "artist": "BABYMONSTER",
+        "duration": "3:31",
+        "url": "https://youtu.be/QiM_55KkcMY?si=0eqgbeThydmaAj7L",
+        "original_url": null,
+        "image": "drip",
+        "game": "other",
+        "amountOfDancers": 3,
+        "difficulty": 4,
+        "sinceVersion": 13,
+        "searchName": "drip",
+        "searchArtist": "babymonster"
     },
     {
         "name": "DUN DUN",
@@ -3442,6 +3694,20 @@
         "sinceVersion": 12,
         "searchName": "domino",
         "searchArtist": "jessiej"
+    },
+    {
+        "name": "Don Raja",
+        "artist": "Su Real ft. DISTORT",
+        "duration": "3:25",
+        "url": "https://youtu.be/ltGPMHkB3yc?si=61UpOnWIe3ooCFQo",
+        "original_url": null,
+        "image": "don_raja",
+        "game": "other",
+        "amountOfDancers": 3,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "donraja",
+        "searchArtist": "surealftdistort"
     },
     {
         "name": "Don't Cha",
@@ -4004,6 +4270,34 @@
         "searchArtist": "sangiovanni"
     },
     {
+        "name": "Feather",
+        "artist": "Sabrina Carpenter",
+        "duration": "3:44",
+        "url": "https://youtu.be/kNiduRZWq2U?si=Ty8c7eV1ZZ7ARWUA",
+        "original_url": null,
+        "image": "feather",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "feather",
+        "searchArtist": "sabrinacarpenter"
+    },
+    {
+        "name": "Feather (Parachute Version)",
+        "artist": "Sabrina Carpenter",
+        "duration": "3:14",
+        "url": "https://youtu.be/gDMGlw6e69s",
+        "original_url": null,
+        "image": "feather_parachute_version",
+        "game": "2025",
+        "amountOfDancers": 2,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "featherparachuteversion",
+        "searchArtist": "sabrinacarpenter"
+    },
+    {
         "name": "Feel It Still",
         "artist": "Portugal. The Man",
         "duration": "2:32",
@@ -4100,6 +4394,20 @@
         "sinceVersion": 13,
         "searchName": "feels",
         "searchArtist": "calvinharrisftpharrellwilliamskatyperryandbigsean"
+    },
+    {
+        "name": "Fight Club",
+        "artist": "Lights",
+        "duration": "3:18",
+        "url": "https://youtu.be/vFYNRkTQ7jo",
+        "original_url": null,
+        "image": "fight_club",
+        "game": "2018",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "fightclub",
+        "searchArtist": "lights"
     },
     {
         "name": "Fight for this love",
@@ -4816,6 +5124,20 @@
         "searchArtist": "pitbullftnayerne-yoafrojack"
     },
     {
+        "name": "Give Me Everything",
+        "artist": "Pitbull ft. Ne-Yo, Afrojack & Nayer",
+        "duration": "2:39",
+        "url": "https://youtu.be/mcDBHAKpG4c?si=FSL1OwkEIEz62k3l",
+        "original_url": null,
+        "image": "give_me_everything_LrNjT84C",
+        "game": "dc3",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "givemeeverything",
+        "searchArtist": "pitbullftne-yoafrojack&nayer"
+    },
+    {
         "name": "Give That Wolf A Banana",
         "artist": "Subwoolfer",
         "duration": "2:45",
@@ -4954,6 +5276,20 @@
         "sinceVersion": 0,
         "searchName": "goodfeelingextremeversion",
         "searchArtist": "florida"
+    },
+    {
+        "name": "Good Girls",
+        "artist": "Humphrey Dennis ft. Zanillya",
+        "duration": "3:08",
+        "url": "https://youtu.be/SSxKxmix6CQ?si=AUUWAjwyEEhhVr8d",
+        "original_url": null,
+        "image": "good_girls",
+        "game": "other",
+        "amountOfDancers": 2,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "goodgirls",
+        "searchArtist": "humphreydennisftzanillya"
     },
     {
         "name": "Good Time",
@@ -5726,6 +6062,20 @@
         "searchArtist": "reel2real"
     },
     {
+        "name": "I Love Rock 'N Roll ",
+        "artist": "Joan Jett & the Blackhearts\r",
+        "duration": "3:08",
+        "url": "https://youtu.be/aa_ALJE-1MU",
+        "original_url": null,
+        "image": "i_love_rock_n_roll",
+        "game": "2017",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "iloverocknroll",
+        "searchArtist": "joanjett&theblackhearts"
+    },
+    {
         "name": "I Wanna Go",
         "artist": "Britney Spears",
         "duration": "3:30",
@@ -5780,6 +6130,20 @@
         "sinceVersion": 9,
         "searchName": "iwillsurvive",
         "searchArtist": "gloriagaynor"
+    },
+    {
+        "name": "I Wish For You",
+        "artist": "EXILE",
+        "duration": "2:33",
+        "url": "https://youtu.be/1sgBPwh9cxQ?si=gTGQACd006Qq1rAo",
+        "original_url": null,
+        "image": "i_wish_for_you",
+        "game": "dc2",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "iwishforyou",
+        "searchArtist": "exile"
     },
     {
         "name": "I gotta feeling (Classroom)",
@@ -6228,6 +6592,20 @@
         "sinceVersion": 0,
         "searchName": "itsyou",
         "searchArtist": "ducksauce"
+    },
+    {
+        "name": "It's ok I'm ok",
+        "artist": "Tate McRae",
+        "duration": "3:18",
+        "url": "https://youtu.be/GOoiXPfTeb0",
+        "original_url": null,
+        "image": "its_ok_im_ok",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "itsokimok",
+        "searchArtist": "tatemcrae"
     },
     {
         "name": "It's the Most Wonderful Time of the Year",
@@ -6720,6 +7098,20 @@
         "searchArtist": "dnceftnickiminaj"
     },
     {
+        "name": "Kitipo (Extreme)",
+        "artist": "Dixson Waz & La Tukiti ft. Amenazandel",
+        "duration": "4:04",
+        "url": "https://youtu.be/cEmcS4HVZ1w?si=wdIF0jGHM7YMTy4G",
+        "original_url": null,
+        "image": "kitipo_extreme",
+        "game": "other",
+        "amountOfDancers": 2,
+        "difficulty": 4,
+        "sinceVersion": 13,
+        "searchName": "kitipoextreme",
+        "searchArtist": "dixsonwaz&latukitiftamenazandel"
+    },
+    {
         "name": "Know No Better",
         "artist": "Major Lazer",
         "duration": "3:14",
@@ -6816,6 +7208,20 @@
         "sinceVersion": 12,
         "searchName": "lacrimosa",
         "searchArtist": "apashe"
+    },
+    {
+        "name": "Last Christmas",
+        "artist": "Wham!",
+        "duration": "3:28",
+        "url": "https://youtu.be/fXSYyhJP3V0",
+        "original_url": null,
+        "image": "last_christmas",
+        "game": "2017",
+        "amountOfDancers": 2,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "lastchristmas",
+        "searchArtist": "wham"
     },
     {
         "name": "Last Friday Night",
@@ -7124,6 +7530,20 @@
         "sinceVersion": 13,
         "searchName": "loseyourself",
         "searchArtist": "eminem"
+    },
+    {
+        "name": "Louder",
+        "artist": "Don Elektron & Derek",
+        "duration": "3:05",
+        "url": "https://youtu.be/vEk4mW455EI?si=Svvl4qno4W1osePm",
+        "original_url": null,
+        "image": "louder",
+        "game": "other",
+        "amountOfDancers": 2,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "louder",
+        "searchArtist": "donelektron&derek"
     },
     {
         "name": "Love Boat",
@@ -7672,6 +8092,20 @@
         "searchArtist": "pushbaby"
     },
     {
+        "name": "Memeshikute",
+        "artist": "Golden Bomber",
+        "duration": "4:10",
+        "url": "https://youtu.be/2A8SCMv-uZw",
+        "original_url": null,
+        "image": "memeshikute",
+        "game": "wiiu",
+        "amountOfDancers": 4,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "memeshikute",
+        "searchArtist": "goldenbomber"
+    },
+    {
         "name": "Mermaid girl (fanmade by StarLuke04)",
         "artist": "Cream puff",
         "duration": "3:05",
@@ -7684,6 +8118,20 @@
         "sinceVersion": 13,
         "searchName": "mermaidgirlfanmadebystarluke04",
         "searchArtist": "creampuff"
+    },
+    {
+        "name": "Messy",
+        "artist": "Lola Young ",
+        "duration": "5:10",
+        "url": "https://youtu.be/1-6s1euCJEc?si=WSCSHzRV-Dj0XoZd",
+        "original_url": null,
+        "image": "messy",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "messy",
+        "searchArtist": "lolayoung"
     },
     {
         "name": "Mi Gente",
@@ -7866,6 +8314,20 @@
         "sinceVersion": 10,
         "searchName": "mood",
         "searchArtist": "24kgoldnftianndior"
+    },
+    {
+        "name": "Moonlight",
+        "artist": "Aileen-O",
+        "duration": "3:28",
+        "url": "https://youtu.be/GLjU7U5MKpc",
+        "original_url": null,
+        "image": "moonlight",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "moonlight",
+        "searchArtist": "aileen-o"
     },
     {
         "name": "More",
@@ -8090,6 +8552,20 @@
         "sinceVersion": 10,
         "searchName": "narco",
         "searchArtist": "blasterjaxx&timmytrumpet"
+    },
+    {
+        "name": "Naughty Girl",
+        "artist": "Beyonce",
+        "duration": "4:09",
+        "url": "https://youtu.be/E-AxdGEcd_M?si=Zg_ESHxpjrkGVgwA",
+        "original_url": null,
+        "image": "naughty_girl",
+        "game": "2018",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 13,
+        "searchName": "naughtygirl",
+        "searchArtist": "beyonce"
     },
     {
         "name": "Nee Nee Nee",
@@ -8946,6 +9422,20 @@
         "searchArtist": "jolintsai"
     },
     {
+        "name": "Play Date",
+        "artist": "Melanie Martinez",
+        "duration": "3:03",
+        "url": "https://youtu.be/cmv35vQrmRE",
+        "original_url": null,
+        "image": "play_date",
+        "game": "2025",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "playdate",
+        "searchArtist": "melaniemartinez"
+    },
+    {
         "name": "PoPiPo",
         "artist": "Hatsune Miku",
         "duration": "2:56",
@@ -9590,6 +10080,20 @@
         "searchArtist": "cleanbanditftseanpaulandanne-marie"
     },
     {
+        "name": "Run The Night",
+        "artist": "Gigi Rowe",
+        "duration": "3:40",
+        "url": "https://youtu.be/ihXDzgF0zc4",
+        "original_url": null,
+        "image": "run_the_night",
+        "game": "2017",
+        "amountOfDancers": 1,
+        "difficulty": 3,
+        "sinceVersion": 13,
+        "searchName": "runthenight",
+        "searchArtist": "gigirowe"
+    },
+    {
         "name": "Run The Show (Extreme Version)",
         "artist": "Kat DeLuna ft. Busta Rhymes",
         "duration": "3:34",
@@ -9812,6 +10316,20 @@
         "sinceVersion": 10,
         "searchName": "sax",
         "searchArtist": "fleureast"
+    },
+    {
+        "name": "Say Cheese",
+        "artist": "Paul Russel",
+        "duration": "2:32",
+        "url": "https://youtu.be/83_0OjGbbJ0",
+        "original_url": null,
+        "image": "say_cheese",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "saycheese",
+        "searchArtist": "paulrussel"
     },
     {
         "name": "Say My Name (Extreme Version)",
@@ -10052,6 +10570,20 @@
         "searchArtist": "littlemix"
     },
     {
+        "name": "Show Me What You Got",
+        "artist": "Boomborg",
+        "duration": "3:40",
+        "url": "https://youtu.be/m5oO513Ji9g?si=INCy6jchBv_YgdT8",
+        "original_url": null,
+        "image": "show_me_what_you_got",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "showmewhatyougot",
+        "searchArtist": "boomborg"
+    },
+    {
         "name": "Shut Up and Dance",
         "artist": "Walk the Moon",
         "duration": "3:20",
@@ -10164,6 +10696,20 @@
         "searchArtist": "chanel"
     },
     {
+        "name": "Slumber Party",
+        "artist": "Britney Spears ft. Tinashe",
+        "duration": "3:45",
+        "url": "https://youtu.be/OAIOnOFOfBc?si=gLv3o2eITM6v9FEv",
+        "original_url": null,
+        "image": "slumber_party",
+        "game": "2018",
+        "amountOfDancers": 4,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "slumberparty",
+        "searchArtist": "britneyspearsfttinashe"
+    },
+    {
         "name": "Smalltown Boy",
         "artist": "Bronski Beat",
         "duration": "4:19",
@@ -10218,6 +10764,20 @@
         "sinceVersion": 4,
         "searchName": "sowhat",
         "searchArtist": "pnk"
+    },
+    {
+        "name": "Sokusu",
+        "artist": "Wanko Ni Mero Mero",
+        "duration": "3:44",
+        "url": "https://youtu.be/ud2ZI3Ua2sI?si=TZHZsd4wGQX-fCe0",
+        "original_url": null,
+        "image": "sokusu",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "sokusu",
+        "searchArtist": "wankonimeromero"
     },
     {
         "name": "Soltera",
@@ -10346,6 +10906,20 @@
         "searchArtist": "spicegirls"
     },
     {
+        "name": "Spin Your Love",
+        "artist": "Kevin J Simon",
+        "duration": "3:34",
+        "url": "https://youtu.be/CLlXPQWLFmA?si=hqAceDPjQO4o_X7K",
+        "original_url": null,
+        "image": "spin_your_love",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "spinyourlove",
+        "searchArtist": "kevinjsimon"
+    },
+    {
         "name": "Spooky Scary Skeletons",
         "artist": "The Living Tombstone",
         "duration": "1:40",
@@ -10470,6 +11044,20 @@
         "sinceVersion": 13,
         "searchName": "stopthisfire",
         "searchArtist": "nius"
+    },
+    {
+        "name": "Strangers",
+        "artist": "Sigrid",
+        "duration": "4:17",
+        "url": "https://youtu.be/0Do92dsngMw?si=eMX0VEueqg5Ha_-D",
+        "original_url": null,
+        "image": "strangers",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "strangers",
+        "searchArtist": "sigrid"
     },
     {
         "name": "Streetwalker",
@@ -12152,6 +12740,20 @@
         "searchArtist": "disney"
     },
     {
+        "name": "We Just Begun ",
+        "artist": "Stush & WOST",
+        "duration": "3:31",
+        "url": "https://youtu.be/7OUtrGFEkbo?si=_waK9B4VYeADljik",
+        "original_url": null,
+        "image": "we_just_begun",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 2,
+        "sinceVersion": 13,
+        "searchName": "wejustbegun",
+        "searchArtist": "stush&wost"
+    },
+    {
         "name": "We No Speak Americano (Extreme Version)",
         "artist": "Yolanda Be Cool ft. DCUP\n(Hit The Electro Beat)",
         "duration": "3:04",
@@ -12374,6 +12976,20 @@
         "sinceVersion": 11,
         "searchName": "wherehaveyoubeenextreme",
         "searchArtist": "rihanna"
+    },
+    {
+        "name": "Wherever i Go",
+        "artist": "OneRepublic",
+        "duration": "3:42",
+        "url": "https://youtu.be/r9ZXg5glHyo?si=O_gUGWOjHyNBEJop",
+        "original_url": null,
+        "image": "wherever_i_go",
+        "game": "2018",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "whereverigo",
+        "searchArtist": "onerepublic"
     },
     {
         "name": "Whine Up",
@@ -12934,6 +13550,20 @@
         "sinceVersion": 12,
         "searchName": "zerotohero",
         "searchArtist": "hercule"
+    },
+    {
+        "name": "Zombieboy",
+        "artist": "Lady Gaga",
+        "duration": "4:02",
+        "url": "https://youtu.be/Vy3VriVx0s0?si=NYLrzmciM_DrFfPM",
+        "original_url": null,
+        "image": "zombieboy",
+        "game": "other",
+        "amountOfDancers": 1,
+        "difficulty": 1,
+        "sinceVersion": 13,
+        "searchName": "zombieboy",
+        "searchArtist": "ladygaga"
     },
     {
         "name": "abc",
